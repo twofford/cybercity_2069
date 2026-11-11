@@ -14,50 +14,50 @@ Add it up at the end of the job.
 
 ### Base Heat for the job
 
-| Job level | Heat |
-|---|---|
-| Easy | 1 |
-| Medium | 2 |
-| Hard | 3 |
-| Very Hard | 4 |
-| Nigh Impossible | 6 |
+| Job level       | Heat |
+| --------------- | ---- |
+| Easy            | 1    |
+| Medium          | 2    |
+| Hard            | 3    |
+| Very Hard       | 4    |
+| Nigh Impossible | 6    |
 
 ### What the crew left behind
 
-| Event | Heat |
-|---|---|
-| An alarm went off (including the Alarm Tension Token) | +1 |
-| The GM spent a Heat Tension Token | +2 |
-| A camera caught a face, or a witness can describe them | +1 per PC |
-| A hack got traced | +1 |
-| They left blood, DNA, a dropped weapon or a vehicle | +1 |
-| The payment was traceable or got flagged | +1 |
-| They visited a clinic during or after the job (it leaves a record) | +1 |
-| Shots fired in a well-policed neighborhood | +1 |
-| A car chase through the streets | +1 |
-| Explosives | +2 |
-| The job made the news feeds | +2 |
+| Event                                                              | Heat      |
+| ------------------------------------------------------------------ | --------- |
+| An alarm went off (including the Alarm Tension Token)              | +1        |
+| The GM spent a Heat Tension Token                                  | +2        |
+| A camera caught a face, or a witness can describe them             | +1 per PC |
+| A hack got traced                                                  | +1        |
+| They left blood, DNA, a dropped weapon or a vehicle                | +1        |
+| The payment was traceable or got flagged                           | +1        |
+| They visited a clinic during or after the job (it leaves a record) | +1        |
+| Shots fired in a well-policed neighborhood                         | +1        |
+| A car chase through the streets                                    | +1        |
+| Explosives                                                         | +2        |
+| The job made the news feeds                                        | +2        |
 
 ### Wounding and killing
 
-| Event | Heat |
-|---|---|
-| Each guard or cop wounded | +1 |
-| Each guard or cop killed | +2 |
-| Each bystander wounded | +1 |
-| Each bystander killed | +3 |
-| A corp executive or official killed | +3 |
+| Event                               | Heat |
+| ----------------------------------- | ---- |
+| Each guard or cop wounded           | +1   |
+| Each guard or cop killed            | +2   |
+| Each bystander wounded              | +1   |
+| Each bystander killed               | +3   |
+| A corp executive or official killed | +3   |
 
 Wounding and killing together add **at most +5 Heat** per job. "Wounded" means that someone took damage and lived. Bodies count at the end of the job, so finishing off a wounded guard turns +1 into +2.
 
 ### What takes Heat off
 
-| Event | Heat |
-|---|---|
-| Nobody knew they were there until it was over | −1 |
-| The job happened where nobody polices | −1 |
-| The client agreed to cover their tracks, and actually did | −1 to −2 |
-| They framed someone else convincingly | −2, and that person or gang inherits it |
+| Event                                                     | Heat                                    |
+| --------------------------------------------------------- | --------------------------------------- |
+| Nobody knew they were there until it was over             | −1                                      |
+| The job happened where nobody polices                     | −1                                      |
+| The client agreed to cover their tracks, and actually did | −1 to −2                                |
+| They framed someone else convincingly                     | −2, and that person or gang inherits it |
 
 Heat can't drop below 0. A quiet Medium job usually lands around 2–3 Heat. A loud Hard job with an alarm, a firefight and a couple of dead guards can easily reach 8.
 
@@ -92,13 +92,13 @@ When the crew starts a new job with Heat still on the sheet:
 2. **The Heat stays on the sheet.** The new job's Heat is added on top of it.
 3. **The hunters act.** Check the crew's total Heat and use the band below. Whoever put the most Heat on the crew does it.
 
-| Heat | Band | What happens off-screen |
-|---|---|---|
-| 0 | Cold | Nothing. |
-| 1–3 | Warm | People ask questions. A fixer hears that someone was looking for them, and prices go up. |
-| 4–6 | Hot | Someone is on their trail. A contact gets leaned on, a drone hovers over the safehouse, and clients start to hesitate. |
-| 7–9 | Burning | An active hunt. A bounty goes up, a repo crew rolls out, a stash gets found, or a contact sells them out. |
-| 10+ | Hunted | Someone sends a team to end this. Corp security, a hired kill squad or a military unit comes for them. This is a situation in its own right. |
+| Heat | Band    | What happens off-screen                                                                                                                      |
+| ---- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0    | Cold    | Nothing.                                                                                                                                     |
+| 1–3  | Warm    | People ask questions. A fixer hears that someone was looking for them, and prices go up.                                                     |
+| 4–6  | Hot     | Someone is on their trail. A contact gets leaned on, a drone hovers over the safehouse, and clients start to hesitate.                       |
+| 7–9  | Burning | An active hunt. A bounty goes up, a repo crew rolls out, a stash gets found, or a contact sells them out.                                    |
+| 10+  | Hunted  | Someone sends a team to end this. Corp security, a hired kill squad or a military unit comes for them. This is a situation in its own right. |
 
 At Burning and above, the hunters can also act while the crew is laying low, at least once. Laying low makes them harder to find. It doesn't make them invisible.
 

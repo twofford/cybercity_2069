@@ -6,21 +6,21 @@ Vehicle stats, prices, crashes and chases. See [[Rules Reference]] for combat an
 
 Prices are roughly today's price for the same vehicle, times 8.15, rounded (see Money in [[Rules Reference]]). Few people pay cash. Vehicles can be financed on the same terms as chrome: 10% down, then 5% a month (see [[Chrome]]). Miss two payments and the lender sends someone to take it back.
 
-| Vehicle | Usual maker | Move | HP | Armor | Riders' cover | Good at | Used | New |
-|---|---|---|---|---|---|---|---|---|
-| Electric bike | Budget EV | 60 ft | 6 | 0 | None | Traffic, alleys | $6,000 | $12,000 |
-| Electric moped | Budget EV | 60 ft | 8 | 0 | None | Traffic | $12,000 | $25,000 |
-| Motorcycle | Budget EV | 120 ft | 12 | 0 | None | Traffic, open road | $50,000 | $100,000 |
-| Car | Budget EV, Heavy-duty | 120 ft | 30 | 2 | Partial | Open road | $65,000 (beater) to $200,000 | $400,000 |
-| Luxury car | Luxury | 120 ft | 35 | 4 | Partial | Arriving well | $800,000 | $1,600,000 |
-| Van or pickup | Heavy-duty | 90 ft | 40 | 2 | Partial | Hauling people and cargo | $250,000 | $450,000 |
-| Armored SUV | Heavy-duty | 90 ft | 60 | 10 | Full, windows up | Taking hits | — | $2,000,000 |
-| Armored limousine | Executive | 90 ft | 60 | 12 | Full, windows up | Never touching the street | — | $6,500,000 |
-| Motorboat | Various | 120 ft | 25 | 0 | None | Water | $200,000 | $400,000 |
-| Light helicopter | Luxury | 300 ft | 40 | 4 | Partial | Getting over everything | $3,000,000 | $5,000,000 |
-| AV (armored, vertical takeoff) | Executive | 300 ft | 60 | 10 | Partial | Flying where helicopters can't land | — | $10,000,000+ |
-| Scout drone | Fleet | 60 ft | 3 | 0 | — | Watching | — | $8,000 |
-| Armed drone (pistol or SMG) | Military | 60 ft | 10 | 2 | — | Guarding | — | $200,000 |
+| Vehicle                        | Usual maker           | Move   | HP  | Armor | Riders' cover    | Good at                             | Used                         | New          |
+| ------------------------------ | --------------------- | ------ | --- | ----- | ---------------- | ----------------------------------- | ---------------------------- | ------------ |
+| Electric bike                  | Budget EV             | 60 ft  | 6   | 0     | None             | Traffic, alleys                     | $6,000                       | $12,000      |
+| Electric moped                 | Budget EV             | 60 ft  | 8   | 0     | None             | Traffic                             | $12,000                      | $25,000      |
+| Motorcycle                     | Budget EV             | 120 ft | 12  | 0     | None             | Traffic, open road                  | $50,000                      | $100,000     |
+| Car                            | Budget EV, Heavy-duty | 120 ft | 30  | 2     | Partial          | Open road                           | $65,000 (beater) to $200,000 | $400,000     |
+| Luxury car                     | Luxury                | 120 ft | 35  | 4     | Partial          | Arriving well                       | $800,000                     | $1,600,000   |
+| Van or pickup                  | Heavy-duty            | 90 ft  | 40  | 2     | Partial          | Hauling people and cargo            | $250,000                     | $450,000     |
+| Armored SUV                    | Heavy-duty            | 90 ft  | 60  | 10    | Full, windows up | Taking hits                         | —                            | $2,000,000   |
+| Armored limousine              | Executive             | 90 ft  | 60  | 12    | Full, windows up | Never touching the street           | —                            | $6,500,000   |
+| Motorboat                      | Various               | 120 ft | 25  | 0     | None             | Water                               | $200,000                     | $400,000     |
+| Light helicopter               | Luxury                | 300 ft | 40  | 4     | Partial          | Getting over everything             | $3,000,000                   | $5,000,000   |
+| AV (armored, vertical takeoff) | Executive             | 300 ft | 60  | 10    | Partial          | Flying where helicopters can't land | —                            | $10,000,000+ |
+| Scout drone                    | Fleet                 | 60 ft  | 3   | 0     | —                | Watching                            | —                            | $8,000       |
+| Armed drone (pistol or SMG)    | Military              | 60 ft  | 10  | 2     | —                | Guarding                            | —                            | $200,000     |
 
 - **Move** is how far the vehicle goes on one Move action. In zones, a ground vehicle crosses two zones per Move; aircraft cross four.
 - **Vehicle armor can go past 8,** the cap for people. An armored SUV shrugs off most small arms.
@@ -30,14 +30,14 @@ Prices are roughly today's price for the same vehicle, times 8.15, rounded (see 
 
 The table's stats already include the usual maker's trait. Give each kind of maker a name that fits your setting.
 
-| Maker | Makes | Trait |
-|---|---|---|
-| Budget EV | Cheap electric bikes, mopeds, motorcycles and city cars | **Connected:** always online, so one step easier to hack |
-| Heavy-duty | Cars, pickups, vans and armored SUVs | **Rugged:** crashes deal half damage to the people inside |
-| Luxury | Luxury cars and helicopters | **Armored:** +2 armor over an ordinary version |
-| Executive | Armored limousines and AVs, for people who never touch the street | **Armored:** +4 armor over an ordinary version |
-| Fleet | Drones | **Fleet:** the maker can take it over remotely |
-| Military | Armed drones | **Hardened:** one step harder to hack |
+| Maker      | Makes                                                             | Trait                                                     |
+| ---------- | ----------------------------------------------------------------- | --------------------------------------------------------- |
+| Budget EV  | Cheap electric bikes, mopeds, motorcycles and city cars           | **Connected:** always online, so one step easier to hack  |
+| Heavy-duty | Cars, pickups, vans and armored SUVs                              | **Rugged:** crashes deal half damage to the people inside |
+| Luxury     | Luxury cars and helicopters                                       | **Armored:** +2 armor over an ordinary version            |
+| Executive  | Armored limousines and AVs, for people who never touch the street | **Armored:** +4 armor over an ordinary version            |
+| Fleet      | Drones                                                            | **Fleet:** the maker can take it over remotely            |
+| Military   | Armed drones                                                      | **Hardened:** one step harder to hack                     |
 
 ## In a fight
 

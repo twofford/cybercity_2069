@@ -9,7 +9,7 @@ How to come up with complications for failures, partial successes and Tension To
 ## Where good complications come from
 
 **1. Use parts that already exist.** The best complications add nothing new. They pull in people, machines and schedules that the scene already has: the bartender the PCs tipped, the building's one elevator, the 2 a.m. shift change. That's why they feel like the world reacting, not the GM making things up.
-*Prep:* give each situation four to six moving parts: people with wants, systems that work in specific ways, and things on a schedule.
+_Prep:_ give each situation four to six moving parts: people with wants, systems that work in specific ways, and things on a schedule.
 
 **2. Someone wants something, and this gives them an opening.** Most complications are an NPC acting on what they want or fear. The informant sells the PCs out to cover his own debts. The receptionist wants something for her silence. A rival crew wants the same score.
 

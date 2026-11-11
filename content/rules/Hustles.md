@@ -15,58 +15,58 @@ A PC who hustles is busy. If the crew suddenly needs them, they can drop the hus
 2. They roll d20 + stat + skill, as usual. The GM picks the stat that fits how the PC does the work.
 3. Hustles don't add Tension, whatever the result.
 
-| Gig | Pay per day |
-|---|---|
-| Easy | $500 |
-| Medium | $1,500 |
-| Hard | $3,000 |
+| Gig    | Pay per day |
+| ------ | ----------- |
+| Easy   | $500        |
+| Medium | $1,500      |
+| Hard   | $3,000      |
 
-| Result | What happens |
-|---|---|
-| Full success | Full pay. |
-| Partial success | The GM picks one: half pay, or full pay with a catch (an unhappy customer, a favor owed, a day's work that runs into the next day). |
-| Failure | No pay. The GM can add a small cost: the PC spends $ on supplies equal to half the pay, a customer won't pay, or the PC wasted the day. |
-| Natural 1 | **Catastrophe.** No pay, and something goes badly wrong (see below). |
+| Result          | What happens                                                                                                                            |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Full success    | Full pay.                                                                                                                               |
+| Partial success | The GM picks one: half pay, or full pay with a catch (an unhappy customer, a favor owed, a day's work that runs into the next day).     |
+| Failure         | No pay. The GM can add a small cost: the PC spends $ on supplies equal to half the pay, a customer won't pay, or the PC wasted the day. |
+| Natural 1       | **Catastrophe.** No pay, and something goes badly wrong (see below).                                                                    |
 
 ## Catastrophes
 
 Only a catastrophe can add Heat. The GM picks one that fits the hustle, or rolls a d6.
 
-| d6 | Catastrophe |
-|---|---|
-| 1 | **Busted.** Cops or corp security pick the PC up. They're held for 1d4 days, lose the gear they had on them, and the crew gains +2 Heat. |
-| 2 | **On the feeds.** Something that the PC did ends up on camera or in the news. +1 Heat. |
-| 3 | **Hurt.** The PC takes 2d4 damage. |
-| 4 | **Made an enemy.** The PC crossed someone with muscle behind them, and that person wants to be paid back. |
-| 5 | **Lost gear.** A tool, a weapon or a deck gets stolen or broken. |
-| 6 | **Dragged someone in.** The trouble lands on a contact, a friend or another PC. |
+| d6  | Catastrophe                                                                                                                              |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Busted.** Cops or corp security pick the PC up. They're held for 1d4 days, lose the gear they had on them, and the crew gains +2 Heat. |
+| 2   | **On the feeds.** Something that the PC did ends up on camera or in the news. +1 Heat.                                                   |
+| 3   | **Hurt.** The PC takes 2d4 damage.                                                                                                       |
+| 4   | **Made an enemy.** The PC crossed someone with muscle behind them, and that person wants to be paid back.                                |
+| 5   | **Lost gear.** A tool, a weapon or a deck gets stolen or broken.                                                                         |
+| 6   | **Dragged someone in.** The trouble lands on a contact, a friend or another PC.                                                          |
 
 ## Hustles by skill
 
 These are examples. Players can pitch their own.
 
-| Skill         | Hustle                                                                  |
-| ------------- | ----------------------------------------------------------------------- |
+| Skill         | Hustle                                                                      |
+| ------------- | --------------------------------------------------------------------------- |
 | Athleticism   | Running packages up and down tenement towers where the elevators don't work |
-| Awareness     | Night watch at a warehouse in the industrial district                               |
-| Connections   | Setting up buyers with sellers for a finder's fee                       |
-| Deception     | Running a short con or a crooked card game                              |
-| Driving       | Driving an unlicensed cab or a delivery van                             |
-| Engineering   | A repair stall: phones, appliances, cheap chrome                        |
-| Explosives    | Day labor on a demolition crew                                          |
-| Hacking       | Unlocking phones and cracking software                                  |
-| Influence     | Selling anything to anyone at a street market                           |
-| Intimidation  | Collecting debts for a loan shark                                       |
-| Investigation | Tracking down people who skipped out on a debt or a lease               |
-| Martial Arts  | Pit fights                                                              |
-| Medicine      | Patching people up off the books, with no clinic record                 |
-| Melee Combat  | Pit fights with weapons, or working the door at a club                  |
-| Piloting      | Drone deliveries between floors and between towers                      |
-| Science       | Mixing knockoff stims for street vendors                                |
-| Security      | Locksmith work, for tenants or for landlords                            |
-| Shooting      | Riding shotgun on a vendor's cash run                                   |
-| Stealth       | Tailing a cheating spouse for a suspicious partner                      |
-| Street Smarts | Moving stolen goods for a fence                                         |
+| Awareness     | Night watch at a warehouse in the industrial district                       |
+| Connections   | Setting up buyers with sellers for a finder's fee                           |
+| Deception     | Running a short con or a crooked card game                                  |
+| Driving       | Driving an unlicensed cab or a delivery van                                 |
+| Engineering   | A repair stall: phones, appliances, cheap chrome                            |
+| Explosives    | Day labor on a demolition crew                                              |
+| Hacking       | Unlocking phones and cracking software                                      |
+| Influence     | Selling anything to anyone at a street market                               |
+| Intimidation  | Collecting debts for a loan shark                                           |
+| Investigation | Tracking down people who skipped out on a debt or a lease                   |
+| Martial Arts  | Pit fights                                                                  |
+| Medicine      | Patching people up off the books, with no clinic record                     |
+| Melee Combat  | Pit fights with weapons, or working the door at a club                      |
+| Piloting      | Drone deliveries between floors and between towers                          |
+| Science       | Mixing knockoff stims for street vendors                                    |
+| Security      | Locksmith work, for tenants or for landlords                                |
+| Shooting      | Riding shotgun on a vendor's cash run                                       |
+| Stealth       | Tailing a cheating spouse for a suspicious partner                          |
+| Street Smarts | Moving stolen goods for a fence                                             |
 
 ## Notes for the GM
 

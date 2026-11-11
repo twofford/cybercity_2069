@@ -1,4 +1,4 @@
-# Character Creation
+lklo# Character Creation
 
 1. **Stats:** assign **3, 2, 1, 1, 1, 0** to Brawn, Charm, Intelligence, Nerve, Reflexes and Tech.
 2. **Background:** pick one, or make your own. It gives one skill at 2 and four at 1.
@@ -15,27 +15,27 @@ A background is who the character was **before** the crew. Every kit, gear plus 
 
 **Make your own** if none of these fit: a name, one skill at 2 and four at 1, and $45,000 of gear and cash.
 
-| Background                                                                                        | Skills                                                                         | Kit                                                                                         |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| Background                                                                                        | Skills                                                                         | Kit                                                                                       |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
 | **Veteran:** fought in a war, then came home to nothing                                           | **Shooting 2**, Athleticism 1, Medicine 1, Awareness 1, Intimidation 1         | Rifle, light vest, $25,000                                                                |
-| **Refugee:** fled a war with whatever they could carry                                            | **Athleticism 2**, Street Smarts 1, Connections 1, Medicine 1, Stealth 1       | Knife, basic medkit, respirator, armored jacket, $37,800 |
-| **Paparazzo:** stalked celebrities and executives for the shot that would sell                    | **Awareness 2**, Stealth 1, Driving 1, Connections 1, Deception 1              | Scout drone with a camera ($8,000), holdout pistol, armored jacket, $29,000             |
-| **Laid-off reporter:** worked a newsroom until it was bought and gutted                           | **Connections 2**, Investigation 1, Influence 1, Stealth 1, Awareness 1        | Recording rig ($2,000), pistol, light vest, burner phones, $32,200                      |
+| **Refugee:** fled a war with whatever they could carry                                            | **Athleticism 2**, Street Smarts 1, Connections 1, Medicine 1, Stealth 1       | Knife, basic medkit, respirator, armored jacket, $37,800                                  |
+| **Paparazzo:** stalked celebrities and executives for the shot that would sell                    | **Awareness 2**, Stealth 1, Driving 1, Connections 1, Deception 1              | Scout drone with a camera ($8,000), holdout pistol, armored jacket, $29,000               |
+| **Laid-off reporter:** worked a newsroom until it was bought and gutted                           | **Connections 2**, Investigation 1, Influence 1, Stealth 1, Awareness 1        | Recording rig ($2,000), pistol, light vest, burner phones, $32,200                        |
 | **Informant:** spent years feeding secrets to the police or a corp, playing both sides            | **Deception 2**, Street Smarts 1, Awareness 1, Influence 1, Stealth 1          | Holdout pistol, armored clothing, burner phones, $36,200                                  |
-| **Courier:** carried packages, cash and data across the city                                      | **Driving 2**, Athleticism 1, Stealth 1, Street Smarts 1, Awareness 1          | Electric bike ($12,000), holdout pistol, armored jacket, $25,000                        |
-| **Chop shop hand:** stripped stolen cars and chrome for parts                                     | **Engineering 2**, Driving 1, Security 1, Street Smarts 1, Melee Combat 1      | Professional toolkit, basic lockpicks, crowbar (club), light vest, $23,100 |
+| **Courier:** carried packages, cash and data across the city                                      | **Driving 2**, Athleticism 1, Stealth 1, Street Smarts 1, Awareness 1          | Electric bike ($12,000), holdout pistol, armored jacket, $25,000                          |
+| **Chop shop hand:** stripped stolen cars and chrome for parts                                     | **Engineering 2**, Driving 1, Security 1, Street Smarts 1, Melee Combat 1      | Professional toolkit, basic lockpicks, crowbar (club), light vest, $23,100                |
 | **Demolition worker:** brought down buildings for a living                                        | **Explosives 2**, Engineering 1, Athleticism 1, Awareness 1, Piloting 1        | 2 frag grenades, 2 smoke grenades, basic toolkit, respirator, pistol, light vest, $26,900 |
 | **Whiz kid:** hacked their first corp at fourteen, and has been looking over their shoulder since | **Hacking 2**, Engineering 1, Security 1, Investigation 1, Deception 1         | Workhorse deck, Blink and Knock Knock programs, burner phone, $28,600                     |
 | **Ex-corpo:** walked out of a corp job, or was thrown out                                         | **Influence 2**, Deception 1, Investigation 1, Hacking 1, Connections 1        | Street deck, pistol, armored suit, $31,000                                                |
-| **Repo agent:** took back chrome and cars from people who missed payments                         | **Intimidation 2**, Medicine 1, Shooting 1, Security 1, Awareness 1            | Pistol, tactical vest, basic medkit, $27,000 |
+| **Repo agent:** took back chrome and cars from people who missed payments                         | **Intimidation 2**, Medicine 1, Shooting 1, Security 1, Awareness 1            | Pistol, tactical vest, basic medkit, $27,000                                              |
 | **Ex-cop:** washed out of a police force                                                          | **Investigation 2**, Shooting 1, Intimidation 1, Awareness 1, Driving 1        | Pistol, tactical vest, old badge, $28,000                                                 |
 | **Bodyguard:** kept someone important alive, until the day they didn't                            | **Martial Arts 2**, Awareness 1, Shooting 1, Driving 1, Influence 1            | Pistol, armored suit, $35,000                                                             |
-| **Struck-off doctor:** lost their medical license, and won't say why                              | **Medicine 2**, Science 1, Influence 1, Deception 1, Awareness 1               | Professional medkit, 3 trauma stims, painkillers, holdout pistol, light vest, $24,400 |
+| **Struck-off doctor:** lost their medical license, and won't say why                              | **Medicine 2**, Science 1, Influence 1, Deception 1, Awareness 1               | Professional medkit, 3 trauma stims, painkillers, holdout pistol, light vest, $24,400     |
 | **Gang kid:** grew up in a street gang, and got out (mostly)                                      | **Melee Combat 2**, Intimidation 1, Street Smarts 1, Athleticism 1, Shooting 1 | Bat, pistol, armored jacket, $34,600                                                      |
-| **Smuggler:** flew contraband past borders and patrols                                            | **Piloting 2**, Driving 1, Deception 1, Street Smarts 1, Engineering 1         | Scout drone ($8,000), quarantine case, holdout pistol, $26,000                          |
-| **Burned researcher:** found something a corp wanted buried, and lost everything for it           | **Science 2**, Investigation 1, Medicine 1, Hacking 1, Awareness 1             | Professional lab kit, street deck, painkillers, $20,800 |
-| **Cat burglar:** robbed penthouses until it got too hot                                           | **Security 2**, Stealth 1, Athleticism 1, Awareness 1, Deception 1             | Professional lockpicks and bypass tools, holdout pistol, armored clothing, $25,000 |
-| **Escaped contract worker:** signed years away to a corp, then ran                                | **Stealth 2**, Athleticism 1, Deception 1, Engineering 1, Street Smarts 1      | Basic toolkit, knife, armored jacket, $37,100 |
+| **Smuggler:** flew contraband past borders and patrols                                            | **Piloting 2**, Driving 1, Deception 1, Street Smarts 1, Engineering 1         | Scout drone ($8,000), quarantine case, holdout pistol, $26,000                            |
+| **Burned researcher:** found something a corp wanted buried, and lost everything for it           | **Science 2**, Investigation 1, Medicine 1, Hacking 1, Awareness 1             | Professional lab kit, street deck, painkillers, $20,800                                   |
+| **Cat burglar:** robbed penthouses until it got too hot                                           | **Security 2**, Stealth 1, Athleticism 1, Awareness 1, Deception 1             | Professional lockpicks and bypass tools, holdout pistol, armored clothing, $25,000        |
+| **Escaped contract worker:** signed years away to a corp, then ran                                | **Stealth 2**, Athleticism 1, Deception 1, Engineering 1, Street Smarts 1      | Basic toolkit, knife, armored jacket, $37,100                                             |
 | **Ex-con:** did time in a corporate prison                                                        | **Street Smarts 2**, Melee Combat 1, Intimidation 1, Security 1, Deception 1   | Knife, pistol, armored jacket, $34,600                                                    |
 
 ## Drive
@@ -85,7 +85,7 @@ Who's the one person in their life?
 
 ## Debt
 
-Who do they owe, and what?
+Who do they owe, and what? A Debt isn't a sum of money. It's an obligation, and **the GM decides if and when it's paid off**, usually after a job, a favor or a sacrifice that settles it in the story. Money can help, but money alone never clears a Debt.
 
 1. A chrome maker: their cybereyes are still company property, and the company can call in a favor whenever it likes.
 2. A fixer: a job went wrong on their watch, and the fixer lost a client over it.

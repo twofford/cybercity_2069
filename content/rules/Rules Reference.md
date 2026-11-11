@@ -103,7 +103,7 @@ Six stats, each **0–3**. Stats are who you are, and they're hard to raise.
 - **Reflexes:** speed, coordination, aim.
 - **Tech:** machines, electronics, systems.
 
-The stat shows *how* you do something, so one skill can pair with different stats. Brawn + Intimidation is looming and shouting. Nerve + Intimidation is a calm stare that says you've done this before.
+The stat shows _how_ you do something, so one skill can pair with different stats. Brawn + Intimidation is looming and shouting. Nerve + Intimidation is a calm stare that says you've done this before.
 
 ## Skills
 
@@ -147,14 +147,14 @@ Twenty skills, each **0–5**.
 
 **You can carry Bulk up to 6 + (2 × Brawn)**, so 6 to 12. That's a hard limit.
 
-| Item | Bulk |
-|---|---|
-| Knife, holdout pistol, small items (stims, ammo, a phone) | 0 |
-| Pistol, club, medkit, cyberdeck, toolkit | 1 |
-| Blade, shotgun, SMG or carbine, grenade launcher | 2 |
-| Rifle | 3 |
-| Heavy weapon | 5 |
-| Armor | Equal to its armor value (subdermal plating: 0) |
+| Item                                                      | Bulk                                            |
+| --------------------------------------------------------- | ----------------------------------------------- |
+| Knife, holdout pistol, small items (stims, ammo, a phone) | 0                                               |
+| Pistol, club, medkit, cyberdeck, toolkit                  | 1                                               |
+| Blade, shotgun, SMG or carbine, grenade launcher          | 2                                               |
+| Rifle                                                     | 3                                               |
+| Heavy weapon                                              | 5                                               |
+| Armor                                                     | Equal to its armor value (subdermal plating: 0) |
 
 ### Weapons
 
@@ -199,12 +199,12 @@ Any weapon can take any mod that fits. Mods add no Bulk, but scanners can find t
 - **One set of worn armor at a time.** Subdermal plating stacks with it, so the most anyone can have is 8 (heavy armor + plating).
 - **Armor piercing** (heavy weapons, AP ammo) halves the target's armor.
 
-| Armor | Armor value | Bulk | Concealable? | Other drawback |
-|---|---|---|---|---|
-| Armored clothing or light vest | 2 | 2 | Looks normal, or fits under a jacket | None |
-| Tactical vest (plates, plate carrier) | 4 | 4 | No: gets you stopped like a rifle | None |
-| Heavy armor (riot or military full-body) | 6 | 6 | You're the scene | −5 to Stealth and Athleticism |
-| Subdermal plating (chrome) | 2 | None | Invisible | Can only be installed once |
+| Armor                                    | Armor value | Bulk | Concealable?                         | Other drawback                |
+| ---------------------------------------- | ----------- | ---- | ------------------------------------ | ----------------------------- |
+| Armored clothing or light vest           | 2           | 2    | Looks normal, or fits under a jacket | None                          |
+| Tactical vest (plates, plate carrier)    | 4           | 4    | No: gets you stopped like a rifle    | None                          |
+| Heavy armor (riot or military full-body) | 6           | 6    | You're the scene                     | −5 to Stealth and Athleticism |
+| Subdermal plating (chrome)               | 2           | None | Invisible                            | Can only be installed once    |
 
 ### Chemistry
 
@@ -218,27 +218,27 @@ A character with Science can make stims, drugs and grenades instead of buying th
   - **Partial success:** the GM picks: a short batch, it takes twice as long, a side effect, or a full batch and +1d4 Tension.
   - **Failure:** the GM picks: the batch is ruined, something goes wrong in the lab (fumes, fire, a visit from someone who noticed), or a full batch and +2d4 Tension.
 
-| Recipe | Difficulty | Batch |
-|---|---|---|
-| Painkillers | Easy | 5 doses |
-| Smoke grenade | Easy | 3 |
-| Trauma stim | Medium | 3 |
-| Heal stim | Medium | 3 |
-| Antitox | Medium | 3 |
-| Knockout drug (in a drink or a dart; the target passes out within a few minutes) | Medium | 3 doses |
-| Street drugs (sell to the right buyer for about four times the materials cost; finding the buyer is its own problem) | Medium | 1 batch |
-| Sleep gas grenade | Hard | 2 |
-| Flashbang | Hard | 2 |
+| Recipe                                                                                                               | Difficulty | Batch   |
+| -------------------------------------------------------------------------------------------------------------------- | ---------- | ------- |
+| Painkillers                                                                                                          | Easy       | 5 doses |
+| Smoke grenade                                                                                                        | Easy       | 3       |
+| Trauma stim                                                                                                          | Medium     | 3       |
+| Heal stim                                                                                                            | Medium     | 3       |
+| Antitox                                                                                                              | Medium     | 3       |
+| Knockout drug (in a drink or a dart; the target passes out within a few minutes)                                     | Medium     | 3 doses |
+| Street drugs (sell to the right buyer for about four times the materials cost; finding the buyer is its own problem) | Medium     | 1 batch |
+| Sleep gas grenade                                                                                                    | Hard       | 2       |
+| Flashbang                                                                                                            | Hard       | 2       |
 
 **Explosives and EMPs** work the same way, with a toolkit instead of a lab kit. Roll **Tech + Explosives** (EMPs: **Tech + Engineering**). An accident here is a small blast: d6 ×2 to whoever's working.
 
-| Build | Skill | Difficulty | Batch |
-|---|---|---|---|
-| Breaching charge | Explosives | Easy | 2 |
-| Frag grenade | Explosives | Medium | 2 |
-| Standard charge | Explosives | Medium | 1 |
-| Big charge | Explosives | Hard | 1 |
-| EMP grenade | Engineering | Hard | 1 |
+| Build            | Skill       | Difficulty | Batch |
+| ---------------- | ----------- | ---------- | ----- |
+| Breaching charge | Explosives  | Easy       | 2     |
+| Frag grenade     | Explosives  | Medium     | 2     |
+| Standard charge  | Explosives  | Medium     | 1     |
+| Big charge       | Explosives  | Hard       | 1     |
+| EMP grenade      | Engineering | Hard       | 1     |
 
 ## Chrome
 
@@ -250,11 +250,11 @@ A character with Science can make stims, drugs and grenades instead of buying th
 - **Tension:** using a big chrome bonus adds Tension, whatever the result.
 
 | Chrome bonus used on the roll | Tension added |
-|---|---|
-| +1 to +3 | 0 |
-| +4 to +6 | 1 |
-| +7 to +9 | 2 |
-| +10 or more | 3 |
+| ----------------------------- | ------------- |
+| +1 to +3                      | 0             |
+| +4 to +6                      | 1             |
+| +7 to +9                      | 2             |
+| +10 or more                   | 3             |
 
 ## Hacking
 
@@ -266,13 +266,13 @@ A hack is a normal check, usually **Tech + Hacking**. In combat it's the Hack ac
 
 Difficulty describes the target's security, not the hacker.
 
-| Difficulty | What it looks like | Examples |
-|---|---|---|
-| Easy | Cheap, old or never updated | A vending machine, a street ad screen, a tenement door lock, a ganger's knockoff phone, a toy drone |
-| Medium | Ordinary consumer and small-business security | A bar's cameras and back door, a civilian car, a middle-class person's phone, a cleaning robot, cheap secondhand chrome |
-| Hard | Corporate security at an ordinary site | A clinic's cameras and doors, a police drone, a corp employee's work terminal, a guard's company-issued chrome, an armored corp van |
-| Very Hard | Secure corporate or government systems | A vault lock, an audit server, a consulate's systems, military-grade chrome |
-| Nigh Impossible | The most protected systems in the city | A corp headquarters' core systems, the control system for a city's robot fleet, a private bank's vaults, a military AI |
+| Difficulty      | What it looks like                            | Examples                                                                                                                            |
+| --------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Easy            | Cheap, old or never updated                   | A vending machine, a street ad screen, a tenement door lock, a ganger's knockoff phone, a toy drone                                 |
+| Medium          | Ordinary consumer and small-business security | A bar's cameras and back door, a civilian car, a middle-class person's phone, a cleaning robot, cheap secondhand chrome             |
+| Hard            | Corporate security at an ordinary site        | A clinic's cameras and doors, a police drone, a corp employee's work terminal, a guard's company-issued chrome, an armored corp van |
+| Very Hard       | Secure corporate or government systems        | A vault lock, an audit server, a consulate's systems, military-grade chrome                                                         |
+| Nigh Impossible | The most protected systems in the city        | A corp headquarters' core systems, the control system for a city's robot fleet, a private bank's vaults, a military AI              |
 
 - **One step harder** if someone is watching the system or it's on alert. **One step easier** if it's been neglected for years.
 - **On the hacker's side,** stolen credentials (a password, a badge code, an access key) and the deck's Quality give bonuses.
@@ -285,12 +285,12 @@ Hacking takes a cyberdeck. Every deck has three numbers:
 - **RAM:** how many ongoing programs it can run at once. Most hold one RAM slot; big ones hold more (see below).
 - **Quality:** a bonus to hacking rolls.
 
-| Deck | Storage | RAM | Quality | Bulk | Price |
-|---|---|---|---|---|---|
-| Street deck (secondhand, held together with tape) | 6 | 1 | +0 | 1 | $4,000 |
-| Workhorse (a decent consumer model) | 10 | 2 | +1 | 1 | $12,000 |
-| Professional | 15 | 3 | +2 | 1 | $40,000 |
-| Black-market military | 22 | 4 | +3 | 1 | $160,000 |
+| Deck                                              | Storage | RAM | Quality | Bulk | Price    |
+| ------------------------------------------------- | ------- | --- | ------- | ---- | -------- |
+| Street deck (secondhand, held together with tape) | 6       | 1   | +0      | 1    | $4,000   |
+| Workhorse (a decent consumer model)               | 10      | 2   | +1      | 1    | $12,000  |
+| Professional                                      | 15      | 3   | +2      | 1    | $40,000  |
+| Black-market military                             | 22      | 4   | +3      | 1    | $160,000 |
 
 **Loading programs.** You can own more programs than your deck holds, but you can only change what's loaded somewhere safe, never mid-job.
 
@@ -335,25 +335,25 @@ A counter-hacker is a security hacker plugged into the system you're working on,
 
 Every program has a target, an effect and a duration. Add up the parts to get its **Storage cost**. The price climbs steeply:
 
-| Storage cost | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|---|---|---|---|---|---|---|---|
-| Price ($) | 2,000 | 4,000 | 7,000 | 12,000 | 20,000 | 35,000 | 60,000 |
+| Storage cost | 3     | 4     | 5     | 6      | 7      | 8      | 9      |
+| ------------ | ----- | ----- | ----- | ------ | ------ | ------ | ------ |
+| Price ($)    | 2,000 | 4,000 | 7,000 | 12,000 | 20,000 | 35,000 | 60,000 |
 
-| Part | Cost 1 | Cost 2 | Cost 3 |
-|---|---|---|---|
-| **Target** | One device | Every device of one kind you can reach (all the cameras, every cybereye in sight) | Everything on one system (a building's whole security system, or all the chrome in one body) |
-| **Effect** | Disable, loop, lock or unlock, or feed it false readings | Take control | Destroy: it's wrecked until repaired or replaced |
-| **Duration** | Brief: until the end of your next turn | Scene: the rest of the fight, or about half an hour | Ongoing: holds RAM (see above) |
+| Part         | Cost 1                                                   | Cost 2                                                                            | Cost 3                                                                                       |
+| ------------ | -------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Target**   | One device                                               | Every device of one kind you can reach (all the cameras, every cybereye in sight) | Everything on one system (a building's whole security system, or all the chrome in one body) |
+| **Effect**   | Disable, loop, lock or unlock, or feed it false readings | Take control                                                                      | Destroy: it's wrecked until repaired or replaced                                             |
+| **Duration** | Brief: until the end of your next turn                   | Scene: the rest of the fight, or about half an hour                               | Ongoing: holds RAM (see above)                                                               |
 
 Destroying something is permanent, so a destroy program only needs the brief duration.
 
 **Big programs cost Tension** every time they run, whatever the result:
 
 | Storage cost | Tension added |
-|---|---|
-| 3 to 5 | 0 |
-| 6 or 7 | 1 |
-| 8 or 9 | 2 |
+| ------------ | ------------- |
+| 3 to 5       | 0             |
+| 6 or 7       | 1             |
+| 8 or 9       | 2             |
 
 See [[Programs]] for ready-made programs.
 
@@ -374,21 +374,21 @@ Combat runs on a map (5-ft squares) or in theater of the mind (zones, see below)
 
 ### Actions
 
-| Action | AP | What it does |
-|---|---|---|
-| Move | 1 | Travel up to your movement speed. |
-| Eyes on the Road | 1 | Keep a moving vehicle under control. A driver who skips it rolls Reflexes + Driving (or Piloting) at Hard: failure, it crashes; partial, it covers only half its Move; full success, it's fine. |
-| Attack | 2 | Make one attack with whatever you're holding, fire a Burst or Spray (see Automatic fire), or throw a frag or EMP grenade (see Grenades). |
-| Aim | 1 | Line up your shot. Your attack right after this gets +5. |
-| Overwatch | 2 | Cover an area. Until your next turn, the first enemy who moves where you can see them draws one attack from you, and they get no cover against it. |
-| Evade | 2 | Zigzag on foot, or swerve the vehicle you're driving. Only if you moved this turn (Move or Eyes on the Road). Until your next turn, attacks on you or your vehicle are one step harder. |
-| Hunker Down | 1 | Get low behind partial cover. Until your next turn, it counts as two steps instead of one. No attacking or Overwatch this turn. |
-| Disengage | 2 | Back out of melee range without giving your opponent an Opportune Attack. |
-| Hack | 2 | Run a program, or Read (see Hacking). |
-| Use an Item | 1 | Use a stim, throw a smoke grenade or flashbang, plant a charge, set off a detonator, use a tool. |
-| Change Weapons | 1 | Put one weapon away and draw another. |
-| Reload | 1–3 | Refill your gun. The cost is in the weapons table. |
-| Fix Misfire | 1–3 | Clear a jam or fault. The cost depends on how bad the misfire is. |
+| Action           | AP  | What it does                                                                                                                                                                                    |
+| ---------------- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Move             | 1   | Travel up to your movement speed.                                                                                                                                                               |
+| Eyes on the Road | 1   | Keep a moving vehicle under control. A driver who skips it rolls Reflexes + Driving (or Piloting) at Hard: failure, it crashes; partial, it covers only half its Move; full success, it's fine. |
+| Attack           | 2   | Make one attack with whatever you're holding, fire a Burst or Spray (see Automatic fire), or throw a frag or EMP grenade (see Grenades).                                                        |
+| Aim              | 1   | Line up your shot. Your attack right after this gets +5.                                                                                                                                        |
+| Overwatch        | 2   | Cover an area. Until your next turn, the first enemy who moves where you can see them draws one attack from you, and they get no cover against it.                                              |
+| Evade            | 2   | Zigzag on foot, or swerve the vehicle you're driving. Only if you moved this turn (Move or Eyes on the Road). Until your next turn, attacks on you or your vehicle are one step harder.         |
+| Hunker Down      | 1   | Get low behind partial cover. Until your next turn, it counts as two steps instead of one. No attacking or Overwatch this turn.                                                                 |
+| Disengage        | 2   | Back out of melee range without giving your opponent an Opportune Attack.                                                                                                                       |
+| Hack             | 2   | Run a program, or Read (see Hacking).                                                                                                                                                           |
+| Use an Item      | 1   | Use a stim, throw a smoke grenade or flashbang, plant a charge, set off a detonator, use a tool.                                                                                                |
+| Change Weapons   | 1   | Put one weapon away and draw another.                                                                                                                                                           |
+| Reload           | 1–3 | Refill your gun. The cost is in the weapons table.                                                                                                                                              |
+| Fix Misfire      | 1–3 | Clear a jam or fault. The cost depends on how bad the misfire is.                                                                                                                               |
 
 **Reaction: Opportune Attack (0 AP, off-turn).** When an enemy leaves your melee range without disengaging, you get one free attack. You need a melee weapon or bare hands ready.
 
@@ -438,13 +438,13 @@ The die is raw power; the multiplier is precision. A shotgun (big die, low multi
 
 #### Range bands
 
-| Band | Distance | In fiction |
-|---|---|---|
-| Close | 0–15 ft | Same room, arm's reach to across the table |
-| Short | 15–60 ft | Across a big room or a street |
-| Medium | 60–150 ft | Down the block |
-| Long | 150–600 ft | Several blocks |
-| Extreme | 600+ ft | As far as you can see |
+| Band    | Distance   | In fiction                                 |
+| ------- | ---------- | ------------------------------------------ |
+| Close   | 0–15 ft    | Same room, arm's reach to across the table |
+| Short   | 15–60 ft   | Across a big room or a street              |
+| Medium  | 60–150 ft  | Down the block                             |
+| Long    | 150–600 ft | Several blocks                             |
+| Extreme | 600+ ft    | As far as you can see                      |
 
 ### Automatic fire
 
@@ -475,14 +475,14 @@ A throw is aimed at a spot, not a person. The roll sets where the grenade lands.
 
 **The blast** hits everyone within 10 ft (2 squares), or everyone in the zone. Damage doesn't depend on the roll, and armor applies. Full cover blocks it; partial cover halves it.
 
-| Grenade | AP | What it does |
-|---|---|---|
-| Frag | 2 | Everyone in the blast takes 2d6 damage |
-| Smoke | 1 | Blocks line of sight in the area until the end of the fight, including shooting and hacking through it |
-| Flashbang | 1 | Everyone in the blast who can see or hear it gets only 1 AP on their next turn |
-| EMP | 2 | All chrome, drones and robots in the blast shut down until the end of their next turn |
-| Sleep gas | 1 | Fills the area with gas until the end of the next round. Anyone who ends their turn in it without a respirator (or synthetic lungs) falls unconscious for the rest of the scene. Someone next to them can wake them with 1 AP |
-| Mapper | 1 | Bursts into a sensor pulse that reaches 30 ft (6 squares), or the zone and its neighbors, through walls. The crew sees everyone and everything there: people, weapons, chrome, cameras, drones, doors. It doesn't make anyone unaware; they may even notice the ping |
+| Grenade   | AP  | What it does                                                                                                                                                                                                                                                         |
+| --------- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Frag      | 2   | Everyone in the blast takes 2d6 damage                                                                                                                                                                                                                               |
+| Smoke     | 1   | Blocks line of sight in the area until the end of the fight, including shooting and hacking through it                                                                                                                                                               |
+| Flashbang | 1   | Everyone in the blast who can see or hear it gets only 1 AP on their next turn                                                                                                                                                                                       |
+| EMP       | 2   | All chrome, drones and robots in the blast shut down until the end of their next turn                                                                                                                                                                                |
+| Sleep gas | 1   | Fills the area with gas until the end of the next round. Anyone who ends their turn in it without a respirator (or synthetic lungs) falls unconscious for the rest of the scene. Someone next to them can wake them with 1 AP                                        |
+| Mapper    | 1   | Bursts into a sensor pulse that reaches 30 ft (6 squares), or the zone and its neighbors, through walls. The crew sees everyone and everything there: people, weapons, chrome, cameras, drones, doors. It doesn't make anyone unaware; they may even notice the ping |
 
 ### Explosives
 
@@ -492,11 +492,11 @@ A throw is aimed at a spot, not a person. The roll sets where the grenade lands.
 - **Partial success:** it's placed with a catch (it takes another turn, it's easy to spot, it'll be louder or weaker than you wanted, defusing it is only Medium), or it's placed and +1d4 Tension.
 - **Failure:** it's a dud and you won't know until you trigger it, or it's placed with a complication, or it's placed and +2d4 Tension.
 
-| Charge | Effect |
-|---|---|
-| Breaching | Opens a door, a lock or a thin wall. d6 ×2 to anyone within 5 ft |
-| Standard | d10 ×2 within 10 ft (2 squares, or the zone) |
-| Big | d12 ×3, armor piercing, within 30 ft (6 squares, or the zone and its neighbors) |
+| Charge    | Effect                                                                          |
+| --------- | ------------------------------------------------------------------------------- |
+| Breaching | Opens a door, a lock or a thin wall. d6 ×2 to anyone within 5 ft                |
+| Standard  | d10 ×2 within 10 ft (2 squares, or the zone)                                    |
+| Big       | d12 ×3, armor piercing, within 30 ft (6 squares, or the zone and its neighbors) |
 
 Cover works as it does for grenades.
 
@@ -538,12 +538,12 @@ A closed door is a path but not a sightline. One-way glass is a sightline but no
 
 NPCs use the same six stats as PCs, on one line. Their skills are finished totals: stat, skill, gear and chrome already added up. Start from a grade, then add whatever makes the NPC different.
 
-| Grade | Looks like | Typical stats | Armor | Turn order | Best skill | Other skills |
-|---|---|---|---|---|---|---|
-| Amateur | A kid lookout, a panicked civilian | All 0–1 | 0 | +0 | +2 | +0 |
-| Trained | A ganger, a rent-a-cop, a beat cop | One 2 | 2 | +1 | +5 | +2 |
-| Professional | A corp guard, a chrome repo agent, a combat veteran | A 3 and a 2 | 4 | +2 | +8 | +4 |
-| Elite | A shift lead, a corp wheelman, a gang boss | Two 3s, plus chrome | 6 | +3 | +11 | +6 |
+| Grade        | Looks like                                          | Typical stats       | Armor | Turn order | Best skill | Other skills |
+| ------------ | --------------------------------------------------- | ------------------- | ----- | ---------- | ---------- | ------------ |
+| Amateur      | A kid lookout, a panicked civilian                  | All 0–1             | 0     | +0         | +2         | +0           |
+| Trained      | A ganger, a rent-a-cop, a beat cop                  | One 2               | 2     | +1         | +5         | +2           |
+| Professional | A corp guard, a chrome repo agent, a combat veteran | A 3 and a 2         | 4     | +2         | +8         | +4           |
+| Elite        | A shift lead, a corp wheelman, a gang boss          | Two 3s, plus chrome | 6     | +3         | +11        | +6           |
 
 - **A stat block lists:** stats; HP (10 + 2 × Brawn, like a PC), armor and turn order; attacks; what they're good at; chrome that matters (and how hard it is to hack); one trick; and when they break.
 - **A skill not on the block** uses the grade's "other skills" number.
@@ -554,20 +554,20 @@ NPCs use the same six stats as PCs, on one line. Their skills are finished total
 
 The NPC's own numbers set the difficulty, so someone can be hard to kill and easy to talk around, or the other way.
 
-| The PC is... | The difficulty comes from the NPC's... |
-|---|---|
-| Persuading, intimidating, bribing, seducing | **Nerve:** 0 Easy, 1 Medium, 2 Hard, 3 Very Hard, 3 with a nerve dampener Nigh Impossible |
-| Sneaking past, lying to, tailing, pickpocketing | **Awareness** total |
-| Out-driving, out-hacking, outrunning, wrestling free | The matching skill's total |
+| The PC is...                                         | The difficulty comes from the NPC's...                                                    |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Persuading, intimidating, bribing, seducing          | **Nerve:** 0 Easy, 1 Medium, 2 Hard, 3 Very Hard, 3 with a nerve dampener Nigh Impossible |
+| Sneaking past, lying to, tailing, pickpocketing      | **Awareness** total                                                                       |
+| Out-driving, out-hacking, outrunning, wrestling free | The matching skill's total                                                                |
 
 Convert a skill total to a difficulty:
 
-| NPC's total | Difficulty |
-|---|---|
-| +0 to +2 | Easy |
-| +3 to +6 | Medium |
-| +7 to +10 | Hard |
-| +11 to +14 | Very Hard |
+| NPC's total | Difficulty      |
+| ----------- | --------------- |
+| +0 to +2    | Easy            |
+| +3 to +6    | Medium          |
+| +7 to +10   | Hard            |
+| +11 to +14  | Very Hard       |
 | +15 or more | Nigh Impossible |
 
 Circumstances still shift the difficulty as usual: a bribe they need, a lie that fits what they already believe, a guard at the end of a long shift. Attacks still start at Medium.
@@ -602,13 +602,13 @@ HP never grows. Characters get tougher through armor, chrome and smart positioni
 
 **HP doesn't come back on its own.** Only healing restores it, and most healing works mid-fight.
 
-| Healing      | Cost     | How it works                                                                                                 | Price             |
-| ------------ | -------- | ------------------------------------------------------------------------------------------------------------ | ----------------- |
-| Bandage kit  | 2 AP     | Intelligence + Medicine, Easy. Heals 1d4, or 2d4 on a full success. Once per wound; more bandages don't help | $200            |
-| Medkit       | 2 AP     | Intelligence + Medicine, Medium. Heals 2d4, or 4d4 on a full success. A better kit gives its usual bonus. Uses 1 of the kit's 6 uses     | See [[Equipment]] |
-| Heal stim    | 1 AP     | No roll. Heals 1d6 at once. Anyone can use one                                                               | $1,000          |
-| Trauma stim  | 1 AP     | +2 to stabilize a flatlining character                                                                       | $800            |
-| Clinic visit | Downtime | Back to full HP. Takes a day and leaves a record                                                             | $2,000+         |
+| Healing      | Cost     | How it works                                                                                                                         | Price             |
+| ------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| Bandage kit  | 2 AP     | Intelligence + Medicine, Easy. Heals 1d4, or 2d4 on a full success. Once per wound; more bandages don't help                         | $200              |
+| Medkit       | 2 AP     | Intelligence + Medicine, Medium. Heals 2d4, or 4d4 on a full success. A better kit gives its usual bonus. Uses 1 of the kit's 6 uses | See [[Equipment]] |
+| Heal stim    | 1 AP     | No roll. Heals 1d6 at once. Anyone can use one                                                                                       | $1,000            |
+| Trauma stim  | 1 AP     | +2 to stabilize a flatlining character                                                                                               | $800              |
+| Clinic visit | Downtime | Back to full HP. Takes a day and leaves a record                                                                                     | $2,000+           |
 
 ### Flatlining
 
@@ -633,32 +633,32 @@ A trauma stim gives +2, so anyone can try. Stabilizing with a medkit uses 1 of i
 
 Each injury carries its penalty until the part is replaced with chrome. If the part is already chrome, the chrome is wrecked instead and has to be repaired or replaced.
 
-| d20 | Injury | Effect until replaced | Fix | Flesh cost |
-|---|---|---|---|---|
-| **Head** | | | | |
-| 1 | Brain trauma | Memory gaps: −5 Intelligence-based rolls | Neural implant | 3 |
-| 2 | Lost eye | −5 Awareness, and −5 to attacks beyond Short range | Cybereye | 1 |
-| 3 | Blinded | Both eyes gone: can't attack beyond Close; −10 on anything that needs sight | Pair of cybereyes | 2 |
-| 4 | Burst eardrums | −5 Awareness for anything heard; can't follow quiet conversation | Cyberaudio | 1 |
-| 5 | Shattered jaw | Slurred speech: −5 Influence and Deception | Reconstructed jaw | 1 |
-| 6 | Crushed larynx | Can only whisper: −5 Influence and Intimidation | Synthetic voicebox | 1 |
-| **Torso** | | | | |
-| 7 | Ruined lungs | −5 Athleticism; can take only one Move per turn | Synthetic lungs | 3 |
-| 8 | Damaged heart | Max HP −4 | Artificial heart | 3 |
-| 9 | Lost kidney | Max HP −2; needs dialysis every few days | Artificial kidney | 3 |
-| 10 | Liver damage | Stims and drugs give no bonus; toxins deal double damage | Toxin filter | 3 |
-| 11 | Spinal damage | −5 Athleticism and Martial Arts; speed −10 ft | Spinal reinforcement | 3 |
-| 12 | Severe burns | Constant pain: −5 Nerve-based rolls | Synthskin | 1 |
-| **Arms** | | | | |
-| 13 | Lost fingers | −5 Security and Engineering | Cyberfingers | 1 |
-| 14 | Lost hand | −5 on anything that needs two good hands (Security, Engineering, Medicine, two-handed weapons) | Cyberhand | 1 |
-| 15 | Lost arm | Can't use two-handed weapons; −5 on anything that needs two arms (climbing, grappling) | Cyberarm | 2 |
-| 16 | Shattered shoulder | −5 Brawn-based rolls; can't use heavy weapons | Shoulder joint | 2 |
-| 17 | Nerve damage | A constant tremor: −5 Shooting and Melee Combat | Neural stabilizer | 2 |
-| **Legs** | | | | |
-| 18 | Crushed foot | Speed −5 ft; −5 Stealth (you limp, loudly) | Cyberfoot | 1 |
-| 19 | Shattered knee | Speed −10 ft | Knee replacement | 1 |
-| 20 | Lost leg | Speed halved to 15 ft; −5 Athleticism | Cyberleg | 2 |
+| d20       | Injury             | Effect until replaced                                                                          | Fix                  | Flesh cost |
+| --------- | ------------------ | ---------------------------------------------------------------------------------------------- | -------------------- | ---------- |
+| **Head**  |                    |                                                                                                |                      |            |
+| 1         | Brain trauma       | Memory gaps: −5 Intelligence-based rolls                                                       | Neural implant       | 3          |
+| 2         | Lost eye           | −5 Awareness, and −5 to attacks beyond Short range                                             | Cybereye             | 1          |
+| 3         | Blinded            | Both eyes gone: can't attack beyond Close; −10 on anything that needs sight                    | Pair of cybereyes    | 2          |
+| 4         | Burst eardrums     | −5 Awareness for anything heard; can't follow quiet conversation                               | Cyberaudio           | 1          |
+| 5         | Shattered jaw      | Slurred speech: −5 Influence and Deception                                                     | Reconstructed jaw    | 1          |
+| 6         | Crushed larynx     | Can only whisper: −5 Influence and Intimidation                                                | Synthetic voicebox   | 1          |
+| **Torso** |                    |                                                                                                |                      |            |
+| 7         | Ruined lungs       | −5 Athleticism; can take only one Move per turn                                                | Synthetic lungs      | 3          |
+| 8         | Damaged heart      | Max HP −4                                                                                      | Artificial heart     | 3          |
+| 9         | Lost kidney        | Max HP −2; needs dialysis every few days                                                       | Artificial kidney    | 3          |
+| 10        | Liver damage       | Stims and drugs give no bonus; toxins deal double damage                                       | Toxin filter         | 3          |
+| 11        | Spinal damage      | −5 Athleticism and Martial Arts; speed −10 ft                                                  | Spinal reinforcement | 3          |
+| 12        | Severe burns       | Constant pain: −5 Nerve-based rolls                                                            | Synthskin            | 1          |
+| **Arms**  |                    |                                                                                                |                      |            |
+| 13        | Lost fingers       | −5 Security and Engineering                                                                    | Cyberfingers         | 1          |
+| 14        | Lost hand          | −5 on anything that needs two good hands (Security, Engineering, Medicine, two-handed weapons) | Cyberhand            | 1          |
+| 15        | Lost arm           | Can't use two-handed weapons; −5 on anything that needs two arms (climbing, grappling)         | Cyberarm             | 2          |
+| 16        | Shattered shoulder | −5 Brawn-based rolls; can't use heavy weapons                                                  | Shoulder joint       | 2          |
+| 17        | Nerve damage       | A constant tremor: −5 Shooting and Melee Combat                                                | Neural stabilizer    | 2          |
+| **Legs**  |                    |                                                                                                |                      |            |
+| 18        | Crushed foot       | Speed −5 ft; −5 Stealth (you limp, loudly)                                                     | Cyberfoot            | 1          |
+| 19        | Shattered knee     | Speed −10 ft                                                                                   | Knee replacement     | 1          |
+| 20        | Lost leg           | Speed halved to 15 ft; −5 Athleticism                                                          | Cyberleg             | 2          |
 
 ### Replacement chrome
 
@@ -668,11 +668,11 @@ Replacement chrome removes the penalty. Better-grade chrome can also give a bonu
 
 Flesh is how much of the original person is left. **Everyone starts at 10.** Every implant costs Flesh, whether it replaces an injury or was bought for fun. Only cosmetic chrome is free.
 
-| Implant | Flesh cost | Examples |
-|---|---|---|
-| Small | 1 | An eye, a hand, cyberaudio, a jaw |
-| Major | 2 | A limb, subdermal plating, a reflex booster, a neural stabilizer |
-| Deep | 3 | A spine, organs, anything in the brain |
+| Implant | Flesh cost | Examples                                                         |
+| ------- | ---------- | ---------------------------------------------------------------- |
+| Small   | 1          | An eye, a hand, cyberaudio, a jaw                                |
+| Major   | 2          | A limb, subdermal plating, a reflex booster, a neural stabilizer |
+| Deep    | 3          | A spine, organs, anything in the brain                           |
 
 - **Flesh 6 or lower:** ordinary people can tell. Social checks with civilians are one step harder.
 - **Flesh 3 or lower:** your body starts rejecting chrome. Every installation is one step harder.
@@ -695,11 +695,11 @@ Typical builds (stat / skill / gear / chrome). Each cell is failure / partial / 
 
 ### Specialist (the character's main skill)
 
-| Tier | Build | Bonus | Tension per roll | Easy | Medium | Hard | Very Hard | Nigh Impossible |
-|---|---|---|---|---|---|---|---|---|
-| Newbie | 2 / 2 / 1 / 0 | +5 | 0 | 5 / 45 / 50 | 25 / 50 / 25 | 50 / 50 / 0 | 75 / 25 / 0 | 100 / 0 / 0 |
-| Street level | 3 / 2 / 1 / 1 | +7 | 0 | 5 / 35 / 60 | 15 / 50 / 35 | 40 / 50 / 10 | 65 / 35 / 0 | 90 / 10 / 0 |
-| Professional | 3 / 3 / 2 / 3 | +11 | 0 | 5 / 15 / 80 | 5 / 40 / 55 | 20 / 50 / 30 | 45 / 50 / 5 | 70 / 30 / 0 |
-| Veteran | 3 / 4 / 2 / 5 | +14 | 1 | 5 / 0 / 95 | 5 / 25 / 70 | 5 / 50 / 45 | 30 / 50 / 20 | 55 / 45 / 0 |
-| Elite | 3 / 5 / 3 / 7 | +18 | 2 | 5 / 0 / 95 | 5 / 5 / 90 | 5 / 30 / 65 | 10 / 50 / 40 | 35 / 50 / 15 |
-| Legendary | 3 / 5 / 3 / 12 | +23 | 3 | 5 / 0 / 95 | 5 / 0 / 95 | 5 / 5 / 90 | 5 / 30 / 65 | 10 / 50 / 40 |
+| Tier         | Build          | Bonus | Tension per roll | Easy        | Medium       | Hard         | Very Hard    | Nigh Impossible |
+| ------------ | -------------- | ----- | ---------------- | ----------- | ------------ | ------------ | ------------ | --------------- |
+| Newbie       | 2 / 2 / 1 / 0  | +5    | 0                | 5 / 45 / 50 | 25 / 50 / 25 | 50 / 50 / 0  | 75 / 25 / 0  | 100 / 0 / 0     |
+| Street level | 3 / 2 / 1 / 1  | +7    | 0                | 5 / 35 / 60 | 15 / 50 / 35 | 40 / 50 / 10 | 65 / 35 / 0  | 90 / 10 / 0     |
+| Professional | 3 / 3 / 2 / 3  | +11   | 0                | 5 / 15 / 80 | 5 / 40 / 55  | 20 / 50 / 30 | 45 / 50 / 5  | 70 / 30 / 0     |
+| Veteran      | 3 / 4 / 2 / 5  | +14   | 1                | 5 / 0 / 95  | 5 / 25 / 70  | 5 / 50 / 45  | 30 / 50 / 20 | 55 / 45 / 0     |
+| Elite        | 3 / 5 / 3 / 7  | +18   | 2                | 5 / 0 / 95  | 5 / 5 / 90   | 5 / 30 / 65  | 10 / 50 / 40 | 35 / 50 / 15    |
+| Legendary    | 3 / 5 / 3 / 12 | +23   | 3                | 5 / 0 / 95  | 5 / 0 / 95   | 5 / 5 / 90   | 5 / 30 / 65  | 10 / 50 / 40    |
