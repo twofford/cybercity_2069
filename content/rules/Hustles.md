@@ -3,12 +3,14 @@
 A hustle is small, everyday work that a PC picks up when they have nothing better to do: driving a cab while a contact digs up an address, stitching up gangers while the crew lays low. Hustles don't always pay, and they never pay much. See [[Rules Reference]] for checks and [[Heat]] for laying low.
 
 ## When to hustle
+
 - **While waiting during play.** A PC who has nothing to do while they wait for leads can hustle once per day.
 - **While laying low.** Hustles count as part of an ordinary life, so they don't break cover. To save time, a PC rolls once per week and earns 5 days of pay.
 
 A PC who hustles is busy. If the crew suddenly needs them, they can drop the hustle and earn nothing that day.
 
 ## Rolling
+
 1. The player picks a hustle that fits one of the PC's skills (see the list below), and says how big a gig they're looking for: Easy, Medium or Hard.
 2. They roll d20 + stat + skill, as usual. The GM picks the stat that fits how the PC does the work.
 3. Hustles don't add Tension, whatever the result.
@@ -27,6 +29,7 @@ A PC who hustles is busy. If the crew suddenly needs them, they can drop the hus
 | Natural 1 | **Catastrophe.** No pay, and something goes badly wrong (see below). |
 
 ## Catastrophes
+
 Only a catastrophe can add Heat. The GM picks one that fits the hustle, or rolls a d6.
 
 | d6 | Catastrophe |
@@ -39,6 +42,7 @@ Only a catastrophe can add Heat. The GM picks one that fits the hustle, or rolls
 | 6 | **Dragged someone in.** The trouble lands on a contact, a friend or another PC. |
 
 ## Hustles by skill
+
 These are examples. Players can pitch their own.
 
 | Skill         | Hustle                                                                  |
@@ -65,5 +69,6 @@ These are examples. Players can pitch their own.
 | Street Smarts | Moving stolen goods for a fence                                         |
 
 ## Notes for the GM
+
 - Hustles are for filling quiet time, not for getting rich. If PCs earn too much from them compared with real jobs, cut the pay, not the odds.
 - A catastrophe is a good place to find a hook. The enemy that a PC made at a pit fight can become the next job.

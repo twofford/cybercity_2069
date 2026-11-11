@@ -5,12 +5,14 @@ Heat measures how hard someone is looking for the crew. Every job adds some. Lay
 Heat belongs to the whole crew, not to each PC. Keep it on the same sheet as the Tension pool.
 
 ## Who's looking
+
 When you add Heat, write down who it comes from: the police in that neighborhood, the corp that got hit, a gang, a military unit. Whoever put the most Heat on the crew is the one who comes looking. In a neighborhood that nobody polices, Heat mostly comes from the victim, not the cops.
 
 ## Gaining Heat
+
 Add it up at the end of the job.
 
-**Base Heat for the job**
+### Base Heat for the job
 
 | Job level | Heat |
 |---|---|
@@ -20,7 +22,7 @@ Add it up at the end of the job.
 | Very Hard | 4 |
 | Nigh Impossible | 6 |
 
-**What the crew left behind**
+### What the crew left behind
 
 | Event | Heat |
 |---|---|
@@ -36,7 +38,7 @@ Add it up at the end of the job.
 | Explosives | +2 |
 | The job made the news feeds | +2 |
 
-**Wounding and killing**
+### Wounding and killing
 
 | Event | Heat |
 |---|---|
@@ -48,7 +50,7 @@ Add it up at the end of the job.
 
 Wounding and killing together add **at most +5 Heat** per job. "Wounded" means that someone took damage and lived. Bodies count at the end of the job, so finishing off a wounded guard turns +1 into +2.
 
-**What takes Heat off**
+### What takes Heat off
 
 | Event | Heat |
 |---|---|
@@ -60,9 +62,11 @@ Wounding and killing together add **at most +5 Heat** per job. "Wounded" means t
 Heat can't drop below 0. A quiet Medium job usually lands around 2–3 Heat. A loud Hard job with an alarm, a firefight and a couple of dead guards can easily reach 8.
 
 ## Laying low
+
 **Each point of Heat takes 11 days of laying low to burn off.** A quiet job with 2 Heat costs about three weeks. A loud job with 8 Heat costs 88 days, or about three months.
 
 Laying low means:
+
 - No jobs, no scouting and no meetings with clients.
 - No clinic visits, unless someone is dying. That adds +1 Heat.
 - Stay in a safehouse or on home turf, and live an ordinary, boring life.
@@ -74,12 +78,14 @@ During that time, PCs can still spend XP, repair gear, heal with their own medki
 **Cutting it short.** The crew can stop laying low at any time. Each 11 days that they actually stayed down removes 1 point, and the rest stays on the sheet.
 
 ## Cooling off faster
+
 - **Pay a cleaner.** A fixer scrubs footage, pays off witnesses and loses paperwork. It costs $8,000 per point, and they can remove at most 3 points per job.
 - **Scrub the records.** A hacker rolls Tech + Hacking at the job's level. A full success removes 2 Heat, a partial success removes 1 and adds +1d4 Tension to the next job, and a failure adds +1 Heat.
 - **Leave town.** Getting out of the city unseen can be a job of its own. While the crew is out of the city, their Heat drops by 1 every 5 days, about twice as fast.
 - **Give someone up.** Hand the hunters a fall guy. That's a situation to play out, not a rule.
 
 ## Working while hot
+
 When the crew starts a new job with Heat still on the sheet:
 
 1. **The Heat goes into the Tension pool** at the start of the job, 1 Tension per point. If that fills the pool, the GM gets a Tension Token for each full pool, and the rest stays in the pool.
@@ -97,6 +103,7 @@ When the crew starts a new job with Heat still on the sheet:
 At Burning and above, the hunters can also act while the crew is laying low, at least once. Laying low makes them harder to find. It doesn't make them invisible.
 
 ## Notes for the GM
+
 - Tell the players their Heat at the end of every job, and tell them where it came from. The point is to make them weigh going in loud against the time that it will cost them later.
 - Time matters only if something is ticking. Give the crew a reason to want to work: rent, a debt, a client with a deadline, a rival who's taking the jobs that they turn down.
 - At 11 days a point, a crew can't take more than a handful of big jobs a year. If you'd rather they work more often, give them cheaper ways to cool off, not a shorter clock.

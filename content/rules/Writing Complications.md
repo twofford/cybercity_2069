@@ -3,6 +3,7 @@
 How to come up with complications for failures, partial successes and Tension Tokens (see [[Rules Reference]]).
 
 ## The test
+
 **A complication has to give the players a new decision, not a dead end.** "The bouncer says no" stops the scene. "The bouncer shoves you into a ganger who wants a fight" starts a new one.
 
 ## Where good complications come from
@@ -25,7 +26,9 @@ How to come up with complications for failures, partial successes and Tension To
 **8. The complication is an offer.** The corp security chief offers the PC a job instead of an arrest. A fence will pay double for something the PCs shouldn't sell. Temptation can be harder on players than punishment.
 
 ## At the table
+
 When a roll fails, run through these in order until one sticks:
+
 1. Who here wants something, and does this give them an opening?
 2. What system is involved, and how does it break?
 3. What's on a clock that could arrive now?

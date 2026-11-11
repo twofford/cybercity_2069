@@ -1,6 +1,7 @@
 # Core Rules
 
 ## Making a check
+
 **Roll d20 + stat + skill + modifiers** and compare the total to the table.
 
 - **The GM sets the difficulty from the world:** the guard, the lock, the weather, the target's cover. Never from the character sheet.
@@ -35,6 +36,7 @@ flowchart TD
 ```
 
 ## Outcomes and Tension
+
 For each roll, the GM picks one option. A failure shouldn't stop the story, but it should always cost something. See [[Writing Complications]] for help.
 
 | Result              | GM picks one                                                                                                                                                                                                                                             |
@@ -46,20 +48,24 @@ For each roll, the GM picks one option. A failure shouldn't stop the story, but 
 In combat, a failed attack misses, and a partial hit deals one damage die (see Damage). Losing ammo is a good catch for a gun.
 
 ### The Tension pool
+
 - **Size:** 3 per player character. With five PCs, the pool holds 15.
 - **What fills it:** the options above, plus big chrome bonuses (see Chrome).
 - **When it fills,** the GM gains a **Tension Token** and the pool empties.
 - **Keep it where the players can see it.** Watching it fill is the point.
 
 ### Tension Tokens
+
 The GM can spend a Tension Token at any moment on a **major complication**. Unspent tokens carry over to the next session.
+
 - **Flip a roll.** A full or partial success becomes a failure. Guardrails:
   - Announce it as soon as the dice land, before anyone describes the result.
   - The roll becomes a plain failure or a complication, never "it works, and +2d4 Tension."
   - It can't touch an automatic hit, since there's no roll to flip.
   - Once per scene.
 
-**In a fight**
+#### In a fight
+
 - **Reinforcements:** more enemies arrive at the edge of the scene, about one per PC.
 - **Jam:** a PC's weapon jams. Clearing it takes Fix Misfire (1–3 AP).
 - **Dry:** a PC is out of ammo for one weapon, spares included. It's useless until they restock.
@@ -67,13 +73,15 @@ The GM can spend a Tension Token at any moment on a **major complication**. Unsp
 - **Seize the moment:** one enemy takes a full turn right now, outside the turn order.
 - **Hidden edge:** an enemy turns out to have something that the PCs didn't know about: chrome, armor or a backup weapon.
 
-**In any scene**
+#### In any scene
+
 - **Alarm:** the whole building knows. Doors lock, guards move, the clock starts.
 - **The ground shifts:** a fire spreads, the lights die, the floor gives way, a blast door seals.
 - **Split up:** something separates the party: a collapse, a sealed door, the van leaving without someone.
 - **Bad intel:** something that the crew was counting on is wrong: the guard count, the layout, the schedule.
 
-**Beyond this scene**
+#### Beyond this scene
+
 - **Heat:** someone traces them, a bounty goes up, a repo crew gets dispatched.
 - **Turncoat:** a contact sells them out, an ally switches sides, a deal goes bad.
 - **The clock jumps:** a deadline in the current situation moves closer.
@@ -81,9 +89,11 @@ The GM can spend a Tension Token at any moment on a **major complication**. Unsp
 - **Burned deck:** a PC's deck goes dead until it's repaired somewhere safe. Use this rarely: without a deck, the hacker has no way to act on the world.
 
 ## Money
+
 Prices are in dollars (**\$**). The numbers are set for a future where money is worth much less: to price something new, take what it costs today in US dollars and multiply by **8.15**. Change the currency name to suit your setting. See [[Equipment]] for price lists.
 
 ## Stats
+
 Six stats, each **0–3**. Stats are who you are, and they're hard to raise.
 
 - **Brawn:** strength, toughness, physical force.
@@ -96,6 +106,7 @@ Six stats, each **0–3**. Stats are who you are, and they're hard to raise.
 The stat shows *how* you do something, so one skill can pair with different stats. Brawn + Intimidation is looming and shouting. Nerve + Intimidation is a calm stare that says you've done this before.
 
 ## Skills
+
 Twenty skills, each **0–5**.
 
 - **Athleticism:** running, jumping, climbing, swimming, pushing through exhaustion.
@@ -120,7 +131,9 @@ Twenty skills, each **0–5**.
 - **Street Smarts:** how the street works: who runs what, where to buy, how to stay out of trouble.
 
 ## Gear
+
 **Does the item make the action easier, or make the result bigger?**
+
 - **Easier:** a bonus to the roll. A good cyberdeck, professional lockpicks, a top-of-the-line medkit.
 - **Bigger:** changes the effect, not the roll. A high-caliber rifle, a suppressor, an armored car, a deck with more RAM.
 
@@ -131,6 +144,7 @@ Twenty skills, each **0–5**.
 **Drawbacks.** Gear is heavy (see Bulk). Big and modded weapons draw attention: they get you stopped at the door of respectable places and flagged at checkpoints.
 
 ### Bulk
+
 **You can carry Bulk up to 6 + (2 × Brawn)**, so 6 to 12. That's a hard limit.
 
 | Item | Bulk |
@@ -143,11 +157,13 @@ Twenty skills, each **0–5**.
 | Armor | Equal to its armor value (subdermal plating: 0) |
 
 ### Weapons
+
 The weapon determines damage, range and concealment. **It gives no bonus to hit;** accuracy comes from the shooter. Damage is die × crit multiplier (see Damage).
 
 The range columns are the penalty to hit at each band. 0 is the weapon's effective range, −5 is the one band it can reach beyond that, and a dash means it can't reach.
 
 **Ammo** is how much a gun has left before it needs a Reload. The harder it hits, the less it holds.
+
 - **Attacking doesn't use ammo,** except automatic fire (see Automatic fire). Otherwise ammo only drops as the catch on a partial success or a failure: the GM takes 1, or empties the gun on a failure.
 - **An empty gun** can't fire until it's reloaded.
 - **Spare ammo:** characters carry enough to reload through a job, so a Reload only costs AP. Restocking afterward costs money (see [[Equipment]]).
@@ -167,7 +183,9 @@ The range columns are the penalty to hit at each band. 0 is the weapon's effecti
 | Grenade launcher       | By grenade             | No                                | −5    | 0     | 0      | −5   | —       | 1    | 2           |
 
 ### Mods
+
 Any weapon can take any mod that fits. Mods add no Bulk, but scanners can find them.
+
 - **Scope:** shifts the weapon's effective range and reach one band farther. Does nothing at Close.
 - **Laser sight:** +1 to hit at Close and Short.
 - **Smart-link:** +2 to hit, but only with the matching implant.
@@ -175,6 +193,7 @@ Any weapon can take any mod that fits. Mods add no Bulk, but scanners can find t
 - **Suppressor:** no bonus to hit. Only people who can see the shooter notice the shots.
 
 ### Armor
+
 **Subtract armor from each hit,** once per hit, not once per die. Armor shrugs off sloppy hits; clean hits still get through.
 
 - **One set of worn armor at a time.** Subdermal plating stacks with it, so the most anyone can have is 8 (heavy armor + plating).
@@ -188,7 +207,9 @@ Any weapon can take any mod that fits. Mods add no Bulk, but scanners can find t
 | Subdermal plating (chrome) | 2 | None | Invisible | Can only be installed once |
 
 ### Chemistry
+
 A character with Science can make stims, drugs and grenades instead of buying them.
+
 - **When:** only somewhere safe with time to spare. A batch takes an hour to a day.
 - **Tools:** a lab kit, or −5 for the wrong tools.
 - **Cost:** materials run about a third of the store price.
@@ -220,6 +241,7 @@ A character with Science can make stims, drugs and grenades instead of buying th
 | EMP grenade | Engineering | Hard | 1 |
 
 ## Chrome
+
 **Chrome bonuses have no cap.** The big numbers come from chrome, and so do the worst tradeoffs. See [[Chrome]] for the catalog, installation and financing.
 
 - **Flesh:** every implant costs Flesh (see Flesh, under Injury and death).
@@ -235,11 +257,13 @@ A character with Science can make stims, drugs and grenades instead of buying th
 | +10 or more | 3 |
 
 ## Hacking
+
 **To hack something, you have to see it and be within 30 ft, or plug into it.** From anywhere else you can only look things up. From a building's security desk or terminal, you can reach the rest of its systems. A **relay** lets you hack from far away. Plant it where it can see the target. Relays can be found and traced back. A **jammer** cuts radio nearby, including a device owner's remote link to it and the crew's own radios.
 
 A hack is a normal check, usually **Tech + Hacking**. In combat it's the Hack action (2 AP).
 
 ### Difficulty
+
 Difficulty describes the target's security, not the hacker.
 
 | Difficulty | What it looks like | Examples |
@@ -254,7 +278,9 @@ Difficulty describes the target's security, not the hacker.
 - **On the hacker's side,** stolen credentials (a password, a badge code, an access key) and the deck's Quality give bonuses.
 
 ### Decks
+
 Hacking takes a cyberdeck. Every deck has three numbers:
+
 - **Storage:** how many programs it can hold. The total Storage cost of loaded programs can't exceed it.
 - **RAM:** how many ongoing programs it can run at once. Most hold one RAM slot; big ones hold more (see below).
 - **Quality:** a bonus to hacking rolls.
@@ -269,11 +295,14 @@ Hacking takes a cyberdeck. Every deck has three numbers:
 **Loading programs.** You can own more programs than your deck holds, but you can only change what's loaded somewhere safe, never mid-job.
 
 ### Basic functions
+
 Every deck can do these without loading anything:
+
 - **Probe:** no roll. Learn how hard a device is to hack and what it's connected to.
 - **Read:** a hacking check. View a device's files, logs or live feed.
 
 ### Running a program
+
 Pick a loaded program and a target in range, then roll **Tech + Hacking** against the target's difficulty. Programs aren't used up.
 
 - **Full success:** the program works for its full duration.
@@ -281,24 +310,29 @@ Pick a loaded program and a target in range, then roll **Tech + Hacking** agains
 - **Failure:** the GM picks: it fails, it works with a complication, or it works and +2d4 Tension.
 
 Hacking catches and complications:
+
 - **A smaller result** (partial only): a shorter duration, or only some of the targets.
 - **A trace starts,** or an alarm goes off.
 - **A counter-hacker notices** (see below).
 - **The deck shuts down** until the end of your next turn, and your ongoing programs end with it. Save this one for the worse results.
 
 **Ongoing programs** work like holding a door shut: they last until you let go (free). Each holds RAM while it runs: 1 slot for a program costing 3–5 Storage, 2 for 6–7, 3 for 8–9. One also ends if:
+
 - you lose sight of its target or move more than 30 ft away (unless you're working through a relay);
 - you're knocked unconscious;
 - your deck shuts down.
 
 ### Counter-hackers
+
 A counter-hacker is a security hacker plugged into the system you're working on, usually at a security desk. Once one notices you:
+
 - **The system counts as watched,** so everything on it is one step harder to hack.
 - **On each of their turns,** they end one of your programs on their system, or turn the system against you: lock a door, swing a camera, sound the alarm, wake a turret.
 - **They can only reach their own system.** Your deck and your chrome are safe unless they can see you within 30 ft, like any other hacker.
 - **To get rid of them,** find them and deal with them in person, or cut them off by taking down the system (Brownout, Scorched Earth) or its power.
 
 ### Building a program
+
 Every program has a target, an effect and a duration. Add up the parts to get its **Storage cost**. The price climbs steeply:
 
 | Storage cost | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
@@ -324,9 +358,11 @@ Destroying something is permanent, so a destroy program only needs the brief dur
 See [[Programs]] for ready-made programs.
 
 ## Combat
+
 Combat runs on a map (5-ft squares) or in theater of the mind (zones, see below). Everyone gets **3 AP** (action points) per turn and moves **30 ft** (6 squares, or one zone) per Move. Chrome can raise speed; injuries lower it.
 
 ### Turn order
+
 - **Everyone rolls d20 + Reflexes + chrome** (NPCs: their turn order bonus). No skill. Highest goes first, and the order holds for the whole fight.
 - **Ties:** higher Reflexes first, then roll off.
 - **The GM rolls once** for each group of identical enemies.
@@ -385,20 +421,22 @@ flowchart TD
 **Automatic hits.** An attack on someone unaware of you, or immobilized, hits automatically at any range your weapon can reach, and counts as a full success. Getting the drop on someone is meant to be the best tactic in the game.
 
 **Damage.** Every weapon has a damage die and a crit multiplier.
+
 - **Partial success:** roll the die once. A d6 ×3 weapon deals 1d6.
 - **Full success or automatic hit:** roll as many dice as the multiplier. A d6 ×3 weapon deals 3d6.
 - **Subtract the target's armor.** The rest comes off their HP.
 
 The die is raw power; the multiplier is precision. A shotgun (big die, low multiplier) hurts even on a sloppy hit. A sniper rifle (small die, high multiplier) rewards a clean one.
 
-**Cover**
+#### Cover
+
 - **Cover depends on position and direction.** It only counts against attacks from the far side, so flanking removes it.
 - **Partial cover:** about half the body is hidden. Attacks are one step harder.
 - **Full cover:** the attacker has no line of sight and can't target you.
 - **After you attack, your cover counts as no better than partial until your next turn.**
 - **Defense is capped at two steps** from cover, Hunker Down and Evade combined. Small targets and darkness can still add to it.
 
-**Range bands**
+#### Range bands
 
 | Band | Distance | In fiction |
 |---|---|---|
@@ -409,12 +447,15 @@ The die is raw power; the multiplier is precision. A shotgun (big die, low multi
 | Extreme | 600+ ft | As far as you can see |
 
 ### Automatic fire
+
 SMGs, carbines and heavy weapons can fire automatically. A brand can add it to other guns.
+
 - **Burst:** an Attack at **+5 to hit**. It costs **1 ammo** whatever the result, and a partial or a failure can still cost more as the catch.
 - **Spray:** one roll against everyone within 10 ft of a spot you choose (2 squares, or one zone), friends included. Compare the roll to each target's own difficulty. Every hit deals **one damage die**, even on a full success. It costs **2 ammo**, or empties a weapon that holds less.
 - **Neither can be Aimed,** neither is ever silent (suppressor or not), and Rugged doesn't cover their ammo cost.
 
 ### Grenades
+
 A throw is aimed at a spot, not a person. The roll sets where the grenade lands. The type of grenade sets what it does there.
 
 - **Throwing:** roll **Reflexes + Athleticism**. Grenades reach like a pistol: no penalty at Close or Short, −5 at Medium.
@@ -423,7 +464,7 @@ A throw is aimed at a spot, not a person. The roll sets where the grenade lands.
 - **Full success:** it lands where you want.
 - **Partial success:** it scatters. Roll **d8 for direction** (1 is straight past the target, counting clockwise) and **d4 for distance** (1–2: one square; 3–4: two squares). The blast reaches 2 squares, so a scattered grenade often still catches part of the target area.
 
-```
+```text
   8   1   2        (1 = farther from the thrower)
   7   ✕   3        (✕ = where you aimed)
   6   5   4        (5 = back toward the thrower)
@@ -444,7 +485,9 @@ A throw is aimed at a spot, not a person. The roll sets where the grenade lands.
 | Mapper | 1 | Bursts into a sensor pulse that reaches 30 ft (6 squares), or the zone and its neighbors, through walls. The crew sees everyone and everything there: people, weapons, chrome, cameras, drones, doors. It doesn't make anyone unaware; they may even notice the ping |
 
 ### Explosives
+
 **Planting a charge** is Use an Item (1 AP) next to the target. Roll **Tech + Explosives**: Easy with time and quiet, harder in a hurry or under fire.
+
 - **Full success:** it's placed and armed. Defusing it is Hard.
 - **Partial success:** it's placed with a catch (it takes another turn, it's easy to spot, it'll be louder or weaker than you wanted, defusing it is only Medium), or it's placed and +1d4 Tension.
 - **Failure:** it's a dud and you won't know until you trigger it, or it's placed with a complication, or it's placed and +2d4 Tension.
@@ -458,23 +501,28 @@ A throw is aimed at a spot, not a person. The roll sets where the grenade lands.
 Cover works as it does for grenades.
 
 **Detonators.** Setting one off is Use an Item (1 AP).
+
 - **Timer:** set a delay. Once it's running, nothing stops or hurries it except defusing.
 - **Radio:** instant, from anywhere in radio range. A jammer blocks it, and a hacker who can see it within 30 ft can set it off or kill it.
 - **Wire:** instant and unhackable. You have to run the wire (up to a few hundred feet), and anyone who finds it can cut it.
 
 **Defusing** takes 2 AP: **Tech + Explosives** against the charge's difficulty (set by how it was planted; the GM sets it for NPCs' charges).
+
 - **Full success:** it's safe.
 - **Partial success:** it's safe, with a catch (it takes another 2 AP, or the timer jumps forward), or it's safe and +1d4 Tension.
 - **Failure:** it goes off, or the timer jumps, or you're still working on it and +2d4 Tension.
 
 ### Theater-of-the-mind combat (zones)
+
 **Only for playing without a map.** Everything else works the same; zones replace squares, distance and line of sight.
 
 **Zones.** Describe the scene as a handful of zones, each about 15–30 ft across, roughly one room.
+
 - Split anything bigger. A long hallway can be two zones; an open lot splits by features ("behind the parked cars," "the loading dock").
 - Test: can someone cross it in one Move, and could everyone in it grab each other? If not, split it.
 
 **Connections.** Zones connect through openings, not shared walls.
+
 - **Path:** you can move between them (a doorway, a hatch, an open shutter). One Move takes you along one path.
 - **Sightline:** you can see and shoot between them (an open door, a window, glass).
 
@@ -487,6 +535,7 @@ A closed door is a path but not a sightline. One-way glass is a sightline but no
 **Overwatch** names a zone ("I'm watching the doorway"). **Opportune Attack** triggers when an enemy you're fighting in melee leaves your zone without disengaging.
 
 ## NPCs
+
 NPCs use the same six stats as PCs, on one line. Their skills are finished totals: stat, skill, gear and chrome already added up. Start from a grade, then add whatever makes the NPC different.
 
 | Grade | Looks like | Typical stats | Armor | Turn order | Best skill | Other skills |
@@ -502,6 +551,7 @@ NPCs use the same six stats as PCs, on one line. Their skills are finished total
 - **Bosses** are dangerous because of armor, cover, chrome and the people around them, not extra HP.
 
 ### Acting against an NPC
+
 The NPC's own numbers set the difficulty, so someone can be hard to kill and easy to talk around, or the other way.
 
 | The PC is... | The difficulty comes from the NPC's... |
@@ -523,9 +573,11 @@ Convert a skill total to a difficulty:
 Circumstances still shift the difficulty as usual: a bribe they need, a lie that fits what they already believe, a guard at the end of a long shift. Attacks still start at Medium.
 
 ## Vehicles
+
 See [[Vehicles]] for vehicle stats, prices, crashes and chases.
 
 ## Injury and death
+
 Combat is the fail state: if the PCs are in a firefight, something has already gone wrong, and it should hurt. But death is a slope, not a cliff. Each step down keeps a character alive and leaves them a little less human and a little more in debt.
 
 ```mermaid
@@ -541,11 +593,13 @@ flowchart TD
 ```
 
 ### Hit points
+
 **HP = 10 + (2 × Brawn)**, so 10 to 16.
 
 HP never grows. Characters get tougher through armor, chrome and smart positioning, not a bigger pool, and so do enemies.
 
 ### Healing
+
 **HP doesn't come back on its own.** Only healing restores it, and most healing works mid-fight.
 
 | Healing      | Cost     | How it works                                                                                                 | Price             |
@@ -557,11 +611,14 @@ HP never grows. Characters get tougher through armor, chrome and smart positioni
 | Clinic visit | Downtime | Back to full HP. Takes a day and leaves a record                                                             | $2,000+         |
 
 ### Flatlining
+
 - **At 0 HP you're flatlining:** unconscious, with a countdown of 3. It drops by one at the start of each of your turns. When it runs out, you die.
 - **Getting hit while flatlining** takes one more off the countdown.
 
 ### Stabilizing
+
 **2 AP: Intelligence + Medicine at Medium**, on a flatlining character within reach.
+
 - **Full success:** stabilized, awake at 1 HP, can act next turn.
 - **Partial success:** stabilized but unconscious for the rest of the fight.
 - **Failure:** no progress; the countdown keeps running.
@@ -569,9 +626,11 @@ HP never grows. Characters get tougher through armor, chrome and smart positioni
 A trauma stim gives +2, so anyone can try. Stabilizing with a medkit uses 1 of its uses.
 
 ### The survival token
+
 **The party shares one survival token per session.** Spend it when a countdown runs out: instead of dying, the character survives with a lasting injury. Roll on the table, roll within one body region, or pick one that fits how they went down.
 
 ### Lasting injuries
+
 Each injury carries its penalty until the part is replaced with chrome. If the part is already chrome, the chrome is wrecked instead and has to be repaired or replaced.
 
 | d20 | Injury | Effect until replaced | Fix | Flesh cost |
@@ -602,9 +661,11 @@ Each injury carries its penalty until the part is replaced with chrome. If the p
 | 20 | Lost leg | Speed halved to 15 ft; −5 Athleticism | Cyberleg | 2 |
 
 ### Replacement chrome
+
 Replacement chrome removes the penalty. Better-grade chrome can also give a bonus. Few characters can pay outright, so it usually comes financed (see [[Chrome]]).
 
 ### Flesh
+
 Flesh is how much of the original person is left. **Everyone starts at 10.** Every implant costs Flesh, whether it replaces an injury or was bought for fun. Only cosmetic chrome is free.
 
 | Implant | Flesh cost | Examples |
@@ -618,6 +679,7 @@ Flesh is how much of the original person is left. **Everyone starts at 10.** Eve
 - **Flesh 0:** nothing human is left. The character is gone, and becomes an NPC in the GM's hands.
 
 ## Appendix: the math behind the tiers
+
 Typical builds (stat / skill / gear / chrome). Each cell is failure / partial / full success, in percent, with a natural 1 always failing. Stat + skill tops out at +8; past that takes gear and chrome.
 
 ### Average at it (a skill the character uses now and then)
@@ -641,4 +703,3 @@ Typical builds (stat / skill / gear / chrome). Each cell is failure / partial / 
 | Veteran | 3 / 4 / 2 / 5 | +14 | 1 | 5 / 0 / 95 | 5 / 25 / 70 | 5 / 50 / 45 | 30 / 50 / 20 | 55 / 45 / 0 |
 | Elite | 3 / 5 / 3 / 7 | +18 | 2 | 5 / 0 / 95 | 5 / 5 / 90 | 5 / 30 / 65 | 10 / 50 / 40 | 35 / 50 / 15 |
 | Legendary | 3 / 5 / 3 / 12 | +23 | 3 | 5 / 0 / 95 | 5 / 0 / 95 | 5 / 5 / 90 | 5 / 30 / 65 | 10 / 50 / 40 |
-

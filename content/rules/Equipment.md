@@ -39,6 +39,7 @@ Street prices, roughly today's price times 8.15 (see Money in [[Rules Reference]
 | Heavy armor | $40,000 |
 
 ## Tool kits
+
 With a basic kit, you avoid the −5 for working without the right tools. Better kits also give a bonus.
 
 | Kit | Basic | Professional (+1) | Top of the line (+2) |
@@ -96,11 +97,13 @@ A full surgical suite isn't a kit you carry. It's a room you rent or own.
 | Quarantine case (blocks tracking chips) | $8,000 |
 
 ## Brands
+
 Who made something changes how it works. A brand gives a **trait** and changes the price; multiply the price above by the brand's. A brand never gives a weapon a bonus to hit. (The foreign military maker's Smart trait is a built-in smart-link, which is a mod.) An item with no brand is an ordinary make: no trait, ×1.
 
 The makers below are types, not names. Give each one a name that fits your setting.
 
 ### Weapons
+
 | Maker | Trait | Price |
 |---|---|---|
 | Utility maker | **Rugged:** the Jam token can't target it, and it only loses ammo on a failure | ×1 |
@@ -110,6 +113,7 @@ The makers below are types, not names. Give each one a name that fits your setti
 | Back-room print | **Clean:** scanners miss it. **Flimsy:** it breaks on a failure. Holdouts, pistols and SMGs only. No brand and no serial number | ×0.5 |
 
 ### Armor
+
 | Maker | Trait | Price |
 |---|---|---|
 | Utility maker | **Cheap:** +1 Bulk. Light and tactical vests | ×0.75 |
@@ -117,6 +121,7 @@ The makers below are types, not names. Give each one a name that fits your setti
 | Bespoke tailor | **Tailored:** armored clothing that passes as ordinary clothes, even at checkpoints. Bulk 1 | ×2 |
 
 ### Decks and drones
+
 | Maker | Trait | Price |
 |---|---|---|
 | Mass-market maker | **Logged:** a good deck, but the maker keeps a record of what you do with it, and sells the records. Workhorse and Professional decks | ×1 |
@@ -126,6 +131,7 @@ The makers below are types, not names. Give each one a name that fits your setti
 Drones are in [[Vehicles]]. Street decks are secondhand and unbranded.
 
 ### Medical
+
 | Maker | Trait | Price |
 |---|---|---|
 | Aid-program brand | **Cheap:** aid programs hand them out. Painkillers and heal stims | ×0.75 |

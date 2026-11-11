@@ -3,6 +3,7 @@
 The cyberware catalog. Prices are for the hardware; installation costs extra (see below). See [[Rules Reference]] for Flesh and the Tension cost of big bonuses.
 
 ## Installation
+
 Someone with Medicine has to install it.
 
 | Installed by | Fee | Roll | Notes |
@@ -21,6 +22,7 @@ Someone with Medicine has to install it.
 **At Flesh 3 or lower,** every installation is one step harder: the body is starting to reject chrome.
 
 **The roll** is Intelligence + Medicine.
+
 - **Full success:** it works.
 - **Partial success:** the GM picks one:
   - **Glitchy:** the implant works, but has a quirk until it's fixed (its bonus is 1 lower, or it freezes at bad moments; the GM can use that as a complication without spending Tension).
@@ -34,12 +36,15 @@ Someone with Medicine has to install it.
   - **Or it works, and +2d4 Tension.**
 
 ## Financing
+
 Few people can pay for chrome up front.
+
 - **Down payment:** 10% of the price.
 - **Monthly payment:** 5% of the price, until it's paid off (about two years).
 - **Miss a payment,** and the lender sends collectors. Miss two, and they come to take the chrome back.
 
 ## Brands
+
 Catalog prices are for the mass-market maker's chrome. Other makers change the price and add a trait. Give each maker a name that fits your setting.
 
 | Maker | Trait | Price |
@@ -49,6 +54,7 @@ Catalog prices are for the mass-market maker's chrome. Other makers change the p
 | Budget maker | **Basic:** replacement parts only, with no upgrades and no bonuses, but no tracking chip | ×0.5 |
 
 ## How chrome is priced
+
 - **Replacement chrome** restores a lost or damaged part and removes its penalty. It gives no bonus by itself.
 - **Swapping chrome for chrome** (a new leg for an old one) costs no new Flesh.
 - **Upgrades** go into chrome you already have (targeting optics need a cybereye; a strength boost needs a cyberarm). **Upgrades cost no extra Flesh:** that part of you is already machine.
@@ -67,6 +73,7 @@ Remember: using a chrome bonus of +4 or more on a roll adds Tension.
 - **Charged implants** do something dramatic a set number of times, then need recharging somewhere safe.
 
 ## Eyes (Flesh 1 each)
+
 | Implant | Type | Effect | Price |
 |---|---|---|---|
 | Cybereye | Replacement | Restores sight in one eye | $8,000 |
@@ -78,6 +85,7 @@ Remember: using a chrome bonus of +4 or more on a roll adds Tension.
 | Recording eye | Upgrade | Records everything you see | $3,000 |
 
 ## Ears (Flesh 1)
+
 | Implant | Type | Effect | Price |
 |---|---|---|---|
 | Cyberaudio | Replacement | Restores hearing | $6,000 |
@@ -86,6 +94,7 @@ Remember: using a chrome bonus of +4 or more on a roll adds Tension.
 | Internal radio | Upgrade | A radio in your head. Jammers still block it | $3,000 |
 
 ## Hands and arms
+
 | Implant | Type | Flesh | Effect | Price |
 |---|---|---|---|---|
 | Cyberfingers | Replacement | 1 | Restores lost fingers | $5,000 |
@@ -99,6 +108,7 @@ Remember: using a chrome bonus of +4 or more on a roll adds Tension.
 | Smart-link port | Upgrade (hand) | — | Lets a smart-linked gun give its +2 | $12,000 |
 
 ## Legs (Flesh 2 each)
+
 | Implant | Type | Effect | Price |
 |---|---|---|---|
 | Cyberleg | Replacement | Restores a leg | $20,000 |
@@ -108,6 +118,7 @@ Remember: using a chrome bonus of +4 or more on a roll adds Tension.
 | Jump boosters | Upgrade (both legs) | Bonus to Athleticism for jumping and climbing | Narrow bonus price |
 
 ## Body and organs
+
 | Implant | Type | Flesh | Effect | Price |
 |---|---|---|---|---|
 | Subdermal plating | Armor | 2 | Armor 2, stacks with worn armor. Can only be installed once | $25,000 |
@@ -122,6 +133,7 @@ Remember: using a chrome bonus of +4 or more on a roll adds Tension.
 | Data vault | Implant | 1 | Carry data inside your body, shielded from scans | $5,000 |
 
 ## Nervous system and brain
+
 | Implant | Type | Flesh | Effect | Price |
 |---|---|---|---|---|
 | Neural stabilizer | Replacement | 2 | Fixes nerve damage | $15,000 |
@@ -135,6 +147,7 @@ Remember: using a chrome bonus of +4 or more on a roll adds Tension.
 | EMP shielding | Implant | 1 | Your chrome ignores EMP | $12,000 |
 
 ## Face and social
+
 | Implant | Type | Flesh | Effect | Price |
 |---|---|---|---|---|
 | Reconstructed jaw | Replacement | 1 | Restores a shattered jaw | $8,000 |
@@ -144,6 +157,7 @@ Remember: using a chrome bonus of +4 or more on a roll adds Tension.
 | Face sculpt | Implant | 1 | Change your face. Takes a week to heal | $20,000 |
 
 ## Cosmetic (no Flesh)
+
 Cosmetic chrome changes how you look and does nothing else. It costs no Flesh, and the price includes fitting.
 
 | Implant | Price |
@@ -152,6 +166,7 @@ Cosmetic chrome changes how you look and does nothing else. It costs no Flesh, a
 | Chromed teeth | $300 |
 
 ## Charged implants
+
 | Implant | Flesh | Charges | Effect | Price |
 |---|---|---|---|---|
 | Optical camouflage | 2 | 3 | Until the end of your next turn, or until you attack, nobody can see you. Your first attack from camouflage hits automatically | $60,000 |
