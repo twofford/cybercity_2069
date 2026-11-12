@@ -1,5 +1,3 @@
-# Heat
-
 Heat measures how hard someone is looking for the crew. Every job adds some. Laying low between jobs burns it off. A crew that goes back to work while it's still hot starts the next job with trouble already building. See [[Rules Reference]] for Tension and [[Advancement]] for job levels.
 
 Heat belongs to the whole crew, not to each PC. Keep it on the same sheet as the Tension pool.

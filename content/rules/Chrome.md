@@ -1,5 +1,3 @@
-# Chrome
-
 The cyberware catalog. Prices are for the hardware; installation costs extra (see below). See [[Rules Reference]] for Flesh and the Tension cost of big bonuses.
 
 ## Installation

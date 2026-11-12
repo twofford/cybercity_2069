@@ -1,5 +1,3 @@
-# Equipment
-
 Street prices, roughly today's price times 8.15 (see Money in [[Rules Reference]]). Weapons are street prices, not a licensed dealer's. Stats are in [[Rules Reference]]; chrome is in [[Chrome]], vehicles in [[Vehicles]] and programs in [[Programs]].
 
 ## Weapons

@@ -1,5 +1,3 @@
-# Advancement
-
 Characters get better by earning XP on jobs and spending it in downtime. See [[Character Creation]] for starting characters and [[Rules Reference]] for difficulty tiers.
 
 ## Earning XP

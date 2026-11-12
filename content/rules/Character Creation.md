@@ -1,9 +1,7 @@
-lklo# Character Creation
-
 1. **Stats:** assign **3, 2, 1, 1, 1, 0** to Brawn, Charm, Intelligence, Nerve, Reflexes and Tech.
 2. **Background:** pick one, or make your own. It gives one skill at 2 and four at 1.
 3. **Free skills:** add **6 more points** anywhere. No skill can start above **3**.
-4. **Gear:** take your background's kit, **or** $45,000 to spend (see [[Equipment]]). Nobody starts with chrome, but you can buy it with starting money (see [[Chrome]]).
+4. **Gear:** take your background's kit, **or** $50,000 to spend (see [[Equipment]]). Nobody starts with chrome, but you can buy it with starting money (see [[Chrome]]).
 5. **Work out:** HP = 10 + (2 × Brawn). Bulk limit = 6 + (2 × Brawn). Flesh starts at 10, minus any chrome. XP starts at 0 and Rep at Nobody (see [[Advancement]]).
 6. **Personal details:** a Drive, a Line, a Tie and a Debt (examples below). They tell the GM what to push on.
 
@@ -11,9 +9,9 @@ See [[Rules Reference]] for what everything means, and use the blank [[Character
 
 ## Backgrounds
 
-A background is who the character was **before** the crew. Every kit, gear plus cash, is worth **$45,000**.
+A background is who the character was **before** the crew. Every kit, gear plus cash, is worth **$50,000**.
 
-**Make your own** if none of these fit: a name, one skill at 2 and four at 1, and $45,000 of gear and cash.
+**Make your own** if none of these fit: a name, one skill at 2 and four at 1, and $50,000 of gear and cash.
 
 | Background                                                                                        | Skills                                                                         | Kit                                                                                       |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
@@ -85,7 +83,7 @@ Who's the one person in their life?
 
 ## Debt
 
-Who do they owe, and what? A Debt isn't a sum of money. It's an obligation, and **the GM decides if and when it's paid off**, usually after a job, a favor or a sacrifice that settles it in the story. Money can help, but money alone never clears a Debt.
+Who do they owe, and what?
 
 1. A chrome maker: their cybereyes are still company property, and the company can call in a favor whenever it likes.
 2. A fixer: a job went wrong on their watch, and the fixer lost a client over it.

@@ -1,5 +1,3 @@
-# Programs
-
 Ready-made programs for cyberdecks. Each is a target, an effect and a duration, and its cost is the Storage that it takes up. Players can build their own the same way (see Building a program in [[Rules Reference]]).
 
 - **Tension:** programs costing 6–7 add 1 Tension every time they run; 8–9 add 2.

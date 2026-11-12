@@ -1,5 +1,3 @@
-# Hustles
-
 A hustle is small, everyday work that a PC picks up when they have nothing better to do: driving a cab while a contact digs up an address, stitching up gangers while the crew lays low. Hustles don't always pay, and they never pay much. See [[Rules Reference]] for checks and [[Heat]] for laying low.
 
 ## When to hustle

@@ -1,5 +1,3 @@
-# Core Rules
-
 ## Making a check
 
 **Roll d20 + stat + skill + modifiers** and compare the total to the table.

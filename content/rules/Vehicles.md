@@ -1,5 +1,3 @@
-# Vehicles
-
 Vehicle stats, prices, crashes and chases. See [[Rules Reference]] for combat and [[Equipment]] for everything else you can buy.
 
 ## Prices
